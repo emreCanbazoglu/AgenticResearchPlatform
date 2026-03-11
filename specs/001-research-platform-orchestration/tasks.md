@@ -11,8 +11,8 @@
 ## Status Summary
 
 - Completed: `40`
-- Remaining: `5`
-- Current focus: final spec docs (`T041`-`T045`) and validation documentation
+- Remaining: `19`
+- Current focus: close docs (`T041`-`T045`), then implement full agent runtime + self-learning loop (`T046`-`T059`)
 
 ## Phase 1: Setup (Shared Infrastructure)
 
@@ -140,6 +140,30 @@
 
 ---
 
+## Phase 8: Agent Runtime Loop (Designer/Implementer/Reviewer)
+
+- [ ] T046 Define persistent schemas for `StrategyProposal`, `StrategyImplementation`, `ReviewResult` in `persistence/models.py`
+- [ ] T047 Add repositories for proposal/implementation/review artifacts in `persistence/repositories.py`
+- [ ] T048 Implement `DesignerAgent` service in `agents/designer.py`
+- [ ] T049 Implement `ImplementerAgent` service in `agents/implementer.py`
+- [ ] T050 Implement `ReviewerAgent` service in `agents/reviewer.py`
+- [ ] T051 Implement role pipeline orchestrator in `agents/pipeline.py`
+- [ ] T052 [P] Add happy-path pipeline integration test in `tests/integration/test_agent_pipeline_happy_path.py`
+- [ ] T053 [P] Add rejection-path integration test in `tests/integration/test_agent_pipeline_rejection_path.py`
+- [ ] T054 [P] Add parallel/idempotency pipeline test in `tests/integration/test_agent_pipeline_parallel_idempotency.py`
+
+---
+
+## Phase 9: Autonomous Self-Learning Loop (Trading)
+
+- [ ] T055 Implement persistent memory state manager in `agents/memory.py`
+- [ ] T056 Implement loop controller (`analyze -> propose -> implement -> review -> execute -> score -> update`) in `agents/loop_controller.py`
+- [ ] T057 Implement exploration/exploitation policy controls in `agents/policies/exploration_exploitation.py`
+- [ ] T058 Implement safety guards for strategy generation/execution in `agents/guards/safety.py`
+- [ ] T059 Add trading loop runner and end-to-end tests in `tests/deterministic/test_agentic_loop_replay.py`, `tests/integration/test_agentic_loop_trading_end_to_end.py`, `tests/integration/test_agentic_loop_resume.py`
+
+---
+
 ## Dependencies & Execution Order
 
 - T001-T004 before all other tasks.
@@ -148,6 +172,8 @@
 - US3 depends on stable orchestration interfaces from US1/US2.
 - US4 depends on orchestration and persistence capabilities from prior stories.
 - T041-T045 run after core implementation tasks.
+- T046-T054 depend on US1-US4 and should start after T041-T045.
+- T055-T059 depend on completion of T046-T054.
 
 ## Implementation Strategy
 
@@ -155,3 +181,4 @@
 2. Add scalable throughput with Phase 4 (execution + scheduler).
 3. Enable non-trading reuse with Phase 5 (adapter abstraction + game economy).
 4. Harden for production with Phase 6, then finalize docs in Phase 7.
+5. Build agent runtime loop (Phase 8), then full autonomous self-learning cycle (Phase 9).
