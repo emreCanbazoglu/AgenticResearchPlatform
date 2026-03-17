@@ -1,0 +1,5002 @@
+[
+  {
+    "market_id": "545881",
+    "question": "Will Russia capture territory in Dnipropetrovsk Oblast by June 30?",
+    "category": "other",
+    "created_at": "2025-05-19T22:50:20.286595Z",
+    "resolved_at": "2025-06-12T22:34:53Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "100956831542359738430417943946810501101213060494810573893628126673226680525220"
+  },
+  {
+    "market_id": "523326",
+    "question": "Will Bayern Munich beat Bayer Leverkusen?",
+    "category": "other",
+    "created_at": "2025-02-13T17:54:50.503886Z",
+    "resolved_at": "2025-06-06T12:48:12Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "96091550288606981178393903786911686940060962694872749411379214920569861218678"
+  },
+  {
+    "market_id": "523327",
+    "question": "Will the match between Bayer Leverkusen and Bayern Munich end in a draw?",
+    "category": "other",
+    "created_at": "2025-02-13T17:55:09.105803Z",
+    "resolved_at": "2025-06-06T12:48:10Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "19471527657843664036426035748167228605771836943695846327764641540659326524365"
+  },
+  {
+    "market_id": "537887",
+    "question": "Will Russia capture territory in Dnipropetrovsk Oblast by May 31?",
+    "category": "other",
+    "created_at": "2025-04-17T21:23:08.742544Z",
+    "resolved_at": "2025-06-01T08:01:21Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "113638782352842060750996473852260043612077209831722629239385798043465963398428"
+  },
+  {
+    "market_id": "514953",
+    "question": "Will another individual win the Romanian Presidential election?",
+    "category": "politics",
+    "created_at": "2024-12-06T18:12:13.492566Z",
+    "resolved_at": "2025-05-19T09:05:11Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "74698427108923237499458549676000737240785662121993878175571054886869016294884"
+  },
+  {
+    "market_id": "514674",
+    "question": "Will C\u0103lin Georgescu win the Romanian Presidential election by  5-10%?",
+    "category": "politics",
+    "created_at": "2024-12-04T18:28:10.249462Z",
+    "resolved_at": "2025-05-19T09:05:11Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "105118249694539367576380303331003297631029025982662547898483878038186001993696"
+  },
+  {
+    "market_id": "514818",
+    "question": "Will Elena Lasconi win the Romanian Presidential election by 5-10%?",
+    "category": "politics",
+    "created_at": "2024-12-04T22:57:13.938969Z",
+    "resolved_at": "2025-05-19T09:05:11Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "60860140791929092374594761684657967318923659781467986413317784844616250541021"
+  },
+  {
+    "market_id": "514817",
+    "question": "Will Elena Lasconi win the Romanian Presidential election by 0-5%?",
+    "category": "politics",
+    "created_at": "2024-12-04T22:56:32.483662Z",
+    "resolved_at": "2025-05-19T09:00:39Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "28026710690988750290088528445550851648325557682456681053767260353801358361356"
+  },
+  {
+    "market_id": "514814",
+    "question": "Will C\u0103lin Georgescu win the Romanian Presidential election by 0-5%?",
+    "category": "politics",
+    "created_at": "2024-12-04T21:58:35.032022Z",
+    "resolved_at": "2025-05-19T09:00:39Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "115422320054906715730077903825324770938781356379456140117146720285962496343683"
+  },
+  {
+    "market_id": "514819",
+    "question": "Will Elena Lasconi win the Romanian Presidential election by 10% or more?",
+    "category": "politics",
+    "created_at": "2024-12-04T22:58:25.210305Z",
+    "resolved_at": "2025-05-19T08:55:33Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "89282351179046868485930436696243102837387847386538241667337058813316892593584"
+  },
+  {
+    "market_id": "514820",
+    "question": "Will C\u0103lin Georgescu win the Romanian Presidential election by 10% or more?",
+    "category": "politics",
+    "created_at": "2024-12-04T22:59:27.651128Z",
+    "resolved_at": "2025-05-19T08:55:31Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "21558504445911356928607841612776695775669791722221231770770600599666381012988"
+  },
+  {
+    "market_id": "520424",
+    "question": "Will CDU/CSU, SPD, and BSW form the next German Government?",
+    "category": "other",
+    "created_at": "2025-01-27T18:20:23.461863Z",
+    "resolved_at": "2025-05-06T22:53:14Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "26524227668997412417803482821865228459028224927348201839422800797110337213209"
+  },
+  {
+    "market_id": "520418",
+    "question": "Will CDU/CSU, SPD, and Greens form the next German Government?",
+    "category": "other",
+    "created_at": "2025-01-27T18:20:21.347434Z",
+    "resolved_at": "2025-05-06T22:53:12Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "7640035106053246112716522751174725252926052150389366097609893593635766804511"
+  },
+  {
+    "market_id": "520423",
+    "question": "Will SPD, FDP, and Greens form the next German Government?",
+    "category": "other",
+    "created_at": "2025-01-27T18:20:23.140862Z",
+    "resolved_at": "2025-05-06T22:53:10Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "101438150623309083009983880437711679611464515365491881882196649901670707868904"
+  },
+  {
+    "market_id": "520420",
+    "question": "Will CDU/CSU and Greens form the next German Government?",
+    "category": "other",
+    "created_at": "2025-01-27T18:20:21.987185Z",
+    "resolved_at": "2025-05-06T22:53:08Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "62695459763754596244812073706364764625873613045587764916799098812729551134384"
+  },
+  {
+    "market_id": "520421",
+    "question": "Will CDU/CSU, SPD, and FDP form the next German Government?",
+    "category": "other",
+    "created_at": "2025-01-27T18:20:22.293252Z",
+    "resolved_at": "2025-05-06T22:53:08Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "70919258941222655132080418882900527814171763516697847378793237602036971291220"
+  },
+  {
+    "market_id": "520419",
+    "question": "Will CDU/CSU and AfD form the next German Government?",
+    "category": "other",
+    "created_at": "2025-01-27T18:20:21.680468Z",
+    "resolved_at": "2025-05-06T22:53:06Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "53242997813265267912891911457995932745590039701903226579258799246242873944601"
+  },
+  {
+    "market_id": "520422",
+    "question": "Will CDU/CSU, FDP, and Greens for the next German Government?",
+    "category": "other",
+    "created_at": "2025-01-27T18:20:22.847263Z",
+    "resolved_at": "2025-05-06T22:53:06Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "104946850589849236857227084287060796858179673600882257777481616167765912968871"
+  },
+  {
+    "market_id": "520417",
+    "question": "Will CDU/CSU and SPD form the next German Government?",
+    "category": "other",
+    "created_at": "2025-01-27T18:20:20.945443Z",
+    "resolved_at": "2025-05-06T22:23:06Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "105835469708599799582205784219962313784342858885895786719965115451276569568193"
+  },
+  {
+    "market_id": "520425",
+    "question": "Will another coalition form the next German Government?",
+    "category": "other",
+    "created_at": "2025-01-27T18:20:23.776245Z",
+    "resolved_at": "2025-05-06T22:18:02Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "28061934631070849114491295085475048602551988558517965488957320802989123667820"
+  },
+  {
+    "market_id": "515805",
+    "question": "Will Jan van Aken be the next Chancellor of Germany?",
+    "category": "other",
+    "created_at": "2024-12-16T20:25:06.782848Z",
+    "resolved_at": "2025-05-06T20:16:30Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "113234085735138989202349352841292212034553238587362356379578028039223100589015"
+  },
+  {
+    "market_id": "515806",
+    "question": "Will Heidi Reichinnek be the next Chancellor of Germany?",
+    "category": "other",
+    "created_at": "2024-12-16T20:25:45.210951Z",
+    "resolved_at": "2025-05-06T20:16:28Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "35642503802735933915045576042419548804249738156295557686102882598512360913740"
+  },
+  {
+    "market_id": "515801",
+    "question": "Will Christian Lindner be the next Chancellor of Germany?",
+    "category": "other",
+    "created_at": "2024-12-16T20:21:02.419473Z",
+    "resolved_at": "2025-05-06T20:11:34Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "38901460251443760654855340035207241299550379467074787290468652812120799437950"
+  },
+  {
+    "market_id": "515797",
+    "question": "Will Robert Habeck be the next Chancellor of Germany?",
+    "category": "other",
+    "created_at": "2024-12-16T20:18:37.767343Z",
+    "resolved_at": "2025-05-06T20:11:32Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "90436168548208535093334290576057530707503869293799413734820216574143261718673"
+  },
+  {
+    "market_id": "515799",
+    "question": "Will Olaf Scholz be the next Chancellor of Germany?",
+    "category": "other",
+    "created_at": "2024-12-16T20:19:16.214305Z",
+    "resolved_at": "2025-05-06T20:11:32Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "12636438589681364998034191115985983437852565856612003240737935178681764668122"
+  },
+  {
+    "market_id": "515796",
+    "question": "Will  Alice Weidel be the next Chancellor of Germany?",
+    "category": "other",
+    "created_at": "2024-12-16T20:17:10.995095Z",
+    "resolved_at": "2025-05-06T20:06:58Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "108938366487918421674535981607344802377690955682719401714117377790816496216026"
+  },
+  {
+    "market_id": "515766",
+    "question": "Will Friedrich Merz be the next Chancellor of Germany?",
+    "category": "other",
+    "created_at": "2024-12-16T18:35:00.499139Z",
+    "resolved_at": "2025-05-06T19:36:16Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "19291014711449241581891722391111915115293102119114083097956425935925516552246"
+  },
+  {
+    "market_id": "521498",
+    "question": "Will Russia capture territory in Dnipropetrovsk Oblast by April 30?",
+    "category": "other",
+    "created_at": "2025-02-03T03:52:12.089124Z",
+    "resolved_at": "2025-05-01T09:47:03Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "3396420332233941214680356796536256225045690250369889281084995689716001007196"
+  },
+  {
+    "market_id": "512342",
+    "question": "Will another candidate win the 2024 Romanian Presidential election?",
+    "category": "politics",
+    "created_at": "2024-11-07T23:56:13.108055Z",
+    "resolved_at": "2025-05-01T09:28:37Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "77954885101917694680997876546123468446797411305104780556694518332567138933230"
+  },
+  {
+    "market_id": "512340",
+    "question": "Will Nicolae Ciuc\u0103 win the 2024 Romanian Presidential election?",
+    "category": "politics",
+    "created_at": "2024-11-07T23:53:29.207545Z",
+    "resolved_at": "2025-05-01T09:18:53Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "53033438245279373213426094525005043480366615306824323472317521871682514379120"
+  },
+  {
+    "market_id": "512337",
+    "question": "Will Mircea Geoan\u0103 win the 2024 Romanian Presidential election?",
+    "category": "politics",
+    "created_at": "2024-11-07T23:29:18.28633Z",
+    "resolved_at": "2025-05-01T09:18:53Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "88761004125801121170646830098793737944899672743449695591428365330803191629513"
+  },
+  {
+    "market_id": "512339",
+    "question": "Will George Simion win the 2024 Romanian Presidential election?",
+    "category": "politics",
+    "created_at": "2024-11-07T23:51:36.29876Z",
+    "resolved_at": "2025-05-01T09:09:09Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "60444392092655129237263026428228168821961471997366291838560699758906532749170"
+  },
+  {
+    "market_id": "512338",
+    "question": "Will Marcel Ciolacu win the 2024 Romanian Presidential election?",
+    "category": "politics",
+    "created_at": "2024-11-07T23:43:41.30827Z",
+    "resolved_at": "2025-05-01T09:03:43Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "101243577543146361469715980639478898839570365093058773290885218727522893652216"
+  },
+  {
+    "market_id": "512341",
+    "question": "Will Elena Lasconi win the 2024 Romanian Presidential election?",
+    "category": "politics",
+    "created_at": "2024-11-07T23:54:05.925441Z",
+    "resolved_at": "2025-05-01T08:54:07Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "72936048731589292555781174533757608024096898681344338816447372274344589246891"
+  },
+  {
+    "market_id": "519209",
+    "question": "Bucks vs. Pelicans",
+    "category": "other",
+    "created_at": "2025-01-20T19:01:36.410046Z",
+    "resolved_at": "2025-04-07T05:34:29Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "59358631220188981661355832743227478502555975517602553898834403767244688965302"
+  },
+  {
+    "market_id": "516359",
+    "question": "Will Mark Few make the 2025 Class of the Naismith Basketball Hall of Fame?",
+    "category": "other",
+    "created_at": "2024-12-23T20:27:39.556339Z",
+    "resolved_at": "2025-04-05T22:05:53Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "59714330112172751367713775188440399456878804860156705799599477260395984837532"
+  },
+  {
+    "market_id": "516360",
+    "question": "Will Marc Gasol make the 2025 Class of the Naismith Basketball Hall of Fame?",
+    "category": "other",
+    "created_at": "2024-12-23T20:28:27.583599Z",
+    "resolved_at": "2025-04-05T22:05:49Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "53893145685581284648018061284697729201785786615593755612096548320059674402087"
+  },
+  {
+    "market_id": "516356",
+    "question": "Will Doc Rivers make the 2025 Class of the Naismith Basketball Hall of Fame?",
+    "category": "other",
+    "created_at": "2024-12-23T20:25:37.561309Z",
+    "resolved_at": "2025-04-05T22:01:11Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "56938474273216385057728721624773145347584938836059720403547730359213987298457"
+  },
+  {
+    "market_id": "516357",
+    "question": "Will Billy Donovan make the 2025 Class of the Naismith Basketball Hall of Fame?",
+    "category": "other",
+    "created_at": "2024-12-23T20:26:33.267452Z",
+    "resolved_at": "2025-04-05T19:43:01Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "83784039336856976556488027971082217973291660066523854233354787834498438440108"
+  },
+  {
+    "market_id": "516361",
+    "question": "Will Micky Arison make the 2025 Class of the Naismith Basketball Hall of Fame?",
+    "category": "other",
+    "created_at": "2024-12-23T20:29:14.414422Z",
+    "resolved_at": "2025-04-05T19:42:55Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "37388611892218906176735167722394966466041514921840165501688979142509484911673"
+  },
+  {
+    "market_id": "516354",
+    "question": "Will Maya Moore make the 2025 Class of the Naismith Basketball Hall of Fame?",
+    "category": "other",
+    "created_at": "2024-12-23T20:24:31.826395Z",
+    "resolved_at": "2025-04-05T19:42:51Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "96802614181708412204881327277280994649023839233442182944293155494363620075658"
+  },
+  {
+    "market_id": "516355",
+    "question": "Will Dwight Howard make the 2025 Class of the Naismith Basketball Hall of Fame?",
+    "category": "other",
+    "created_at": "2024-12-23T20:25:06.33765Z",
+    "resolved_at": "2025-04-05T18:51:59Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "46874349964523700215392052114821313108870925032060122277758287988761823371590"
+  },
+  {
+    "market_id": "516352",
+    "question": "Will Carmelo Anthony make the 2025 Class of the Naismith Basketball Hall of Fame?",
+    "category": "other",
+    "created_at": "2024-12-23T20:20:56.506446Z",
+    "resolved_at": "2025-04-05T18:46:49Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "106446790596918970285191577150220229424117240056027078906800514128744986469683"
+  },
+  {
+    "market_id": "516353",
+    "question": "Will Sue Bird make the 2025 Class of the Naismith Basketball Hall of Fame?",
+    "category": "other",
+    "created_at": "2024-12-23T20:23:59.905257Z",
+    "resolved_at": "2025-04-05T18:46:37Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "41301640575166554470811293691554062283277879491510658615466366331628459125625"
+  },
+  {
+    "market_id": "516853",
+    "question": "Rabby airdrop in Q1 2025?",
+    "category": "other",
+    "created_at": "2024-12-30T17:52:45.358783Z",
+    "resolved_at": "2025-04-01T07:20:20Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "10827523871474536351290235360936253885627275931611528788649952529766075316048"
+  },
+  {
+    "market_id": "516106",
+    "question": "Will The Left make it into the Bundestag as a Fraktion?",
+    "category": "other",
+    "created_at": "2024-12-19T23:07:55.435036Z",
+    "resolved_at": "2025-03-14T19:08:07Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "61400809422255769170143938801345880847452020038258036540578933435205330675688"
+  },
+  {
+    "market_id": "523431",
+    "question": "Will the CDU/CSU win by 8-10%?",
+    "category": "other",
+    "created_at": "2025-02-14T02:03:17.618089Z",
+    "resolved_at": "2025-03-14T16:22:23Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "15220464269371420318065381532152540765578111011390090388491565700294749461560"
+  },
+  {
+    "market_id": "523430",
+    "question": "Will the CDU/CSU win by 6-8%?",
+    "category": "other",
+    "created_at": "2025-02-14T02:03:17.203568Z",
+    "resolved_at": "2025-03-14T16:22:17Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "88587824083342865550178758720845189910499851309496427063605144747984725339614"
+  },
+  {
+    "market_id": "523432",
+    "question": "Will the CDU/CSU win by 10-12%?",
+    "category": "other",
+    "created_at": "2025-02-14T02:03:18.021525Z",
+    "resolved_at": "2025-03-14T16:22:15Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "78428520632235842606215735769109168133124967031164658683912412614763929879094"
+  },
+  {
+    "market_id": "523429",
+    "question": "Will the CDU/CSU win by 4-6%?",
+    "category": "other",
+    "created_at": "2025-02-14T02:03:16.828579Z",
+    "resolved_at": "2025-03-14T16:17:43Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "63246783453750886239385764014633560522877185109276543874237386012589576007328"
+  },
+  {
+    "market_id": "523428",
+    "question": "Will the CDU/CSU win by 2-4%?",
+    "category": "other",
+    "created_at": "2025-02-14T02:03:16.431065Z",
+    "resolved_at": "2025-03-14T16:17:37Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "56723858559356886128185551402838631615423114527948865839162540055056112441983"
+  },
+  {
+    "market_id": "523427",
+    "question": "Will the CDU/CSU win by less than 2%?",
+    "category": "other",
+    "created_at": "2025-02-14T02:03:16.029703Z",
+    "resolved_at": "2025-03-14T16:12:15Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "112858291742069648259527313833647305347682652365766172312827272492047081266267"
+  },
+  {
+    "market_id": "523422",
+    "question": "Will the CDU/CSU win between 26% and 28% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2025-02-14T01:33:26.57773Z",
+    "resolved_at": "2025-03-14T16:07:49Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "36816128241989187492326542447597644834549244871924978253210187112016518099325"
+  },
+  {
+    "market_id": "523433",
+    "question": "Will the CDU/CSU win by more than 12%?",
+    "category": "other",
+    "created_at": "2025-02-14T02:03:18.434207Z",
+    "resolved_at": "2025-03-14T16:07:43Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "52906793600450114229139567675617156337802810228483297915309311632811407562727"
+  },
+  {
+    "market_id": "523425",
+    "question": "Will the CDU/CSU win between 32% and 34% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2025-02-14T01:33:28.536322Z",
+    "resolved_at": "2025-03-14T16:07:39Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "109750751656875520102235284425313022649328822548666686744060124940188168868007"
+  },
+  {
+    "market_id": "523421",
+    "question": "Will the CDU/CSU win less than 26% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2025-02-14T01:33:25.521646Z",
+    "resolved_at": "2025-03-14T16:07:33Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "59556377511716703777384197289767095886081580231334907273372920031069073253946"
+  },
+  {
+    "market_id": "515888",
+    "question": "Will the CDU/CSU win 30-35% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T20:33:36.559595Z",
+    "resolved_at": "2025-03-14T16:02:29Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "61840707217959926469979571062462378659421960013166290578434847949238485384167"
+  },
+  {
+    "market_id": "515890",
+    "question": "Will the CDU/CSU win 35-40% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T20:34:00.703529Z",
+    "resolved_at": "2025-03-14T16:02:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "104668033667539980964552530367633787882478414996196994615512524097463723842172"
+  },
+  {
+    "market_id": "523424",
+    "question": "Will the CDU/CSU win between 30% and 32% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2025-02-14T01:33:27.93035Z",
+    "resolved_at": "2025-03-14T16:02:21Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "107836414137863561820439072503146173937889408599580074950903348731066890078990"
+  },
+  {
+    "market_id": "515885",
+    "question": "Will the CDU/CSU win 20-25% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T20:32:32.678815Z",
+    "resolved_at": "2025-03-14T16:02:15Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "26120444290964706488160066797443853834468466115231097020731408989237679492087"
+  },
+  {
+    "market_id": "523423",
+    "question": "Will the CDU/CSU win between 28% and 30% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2025-02-14T01:33:27.507128Z",
+    "resolved_at": "2025-03-14T15:57:55Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "11733453705203041065903539168861802378118778358585897265141593823632012361551"
+  },
+  {
+    "market_id": "515882",
+    "question": "Will the CDU/CSU win less than 20% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T20:28:55.809808Z",
+    "resolved_at": "2025-03-14T15:57:51Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "51786217610281831572987551310405743607270154687020903790582919843616780378619"
+  },
+  {
+    "market_id": "515893",
+    "question": "Will the CDU/CSU win over 40% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T20:34:40.170897Z",
+    "resolved_at": "2025-03-14T15:57:45Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "24509272492192848116238300031282868664785499356440904132828902685315247594926"
+  },
+  {
+    "market_id": "523426",
+    "question": "Will the CDU/CSU win more than 34% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2025-02-14T01:33:28.918674Z",
+    "resolved_at": "2025-03-14T15:57:35Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "16913707449781749717357845856689276627697982197041145666621188972033821188405"
+  },
+  {
+    "market_id": "515887",
+    "question": "Will the CDU/CSU win 25-30% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T20:33:14.215711Z",
+    "resolved_at": "2025-03-14T15:57:31Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "68571406915848772515360637848415887381877795892441872780002554348372725214705"
+  },
+  {
+    "market_id": "519989",
+    "question": "BSW wins 5% or more of vote in German election? ",
+    "category": "politics",
+    "created_at": "2025-01-24T20:47:01.622225Z",
+    "resolved_at": "2025-03-14T15:41:27Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "6944479819015897320382547170711368595993100642336179147566232316032173206340"
+  },
+  {
+    "market_id": "523369",
+    "question": "Will the AfD win more than 26% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2025-02-13T20:19:04.388809Z",
+    "resolved_at": "2025-03-14T15:33:09Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "18050263126303163283575929078067022614337708997453076023932702077956329438201"
+  },
+  {
+    "market_id": "515905",
+    "question": "Will the SPD win 15-20% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T21:07:18.706504Z",
+    "resolved_at": "2025-03-14T15:33:05Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "63871086334076150970167857346744908248879148148329771965248950059558656886738"
+  },
+  {
+    "market_id": "523365",
+    "question": "Will the AfD win less than 20% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2025-02-13T20:19:02.672544Z",
+    "resolved_at": "2025-03-14T15:32:55Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "46648609621349679392435808252183151323794380895863701983663981332644016049966"
+  },
+  {
+    "market_id": "523367",
+    "question": "Will the AfD win between 22% and 24% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2025-02-13T20:19:03.494578Z",
+    "resolved_at": "2025-03-14T15:27:55Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "91921355779722703562539071312589036591572400897898764932534298229850344830593"
+  },
+  {
+    "market_id": "515904",
+    "question": "Will the SPD win 10-15% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T21:06:54.641392Z",
+    "resolved_at": "2025-03-14T15:27:51Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "106149889342228907841109770466110033989324910390813559106293730985487299913754"
+  },
+  {
+    "market_id": "523368",
+    "question": "Will the AfD win between 24% and 26% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2025-02-13T20:19:03.94983Z",
+    "resolved_at": "2025-03-14T15:27:47Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "17333404748579826069729649832148898718078231005073528486928728046152487013047"
+  },
+  {
+    "market_id": "523366",
+    "question": "Will the AfD win between 20% and 22% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2025-02-13T20:19:03.091087Z",
+    "resolved_at": "2025-03-14T15:27:39Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "4563614746896193777440158479500431442671731803866248702931332285915593225387"
+  },
+  {
+    "market_id": "515906",
+    "question": "Will the SPD win 20-25% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T21:07:41.489535Z",
+    "resolved_at": "2025-03-14T15:27:35Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "31145497499820877317575330868215477913420889772069065993381686266501270999061"
+  },
+  {
+    "market_id": "515902",
+    "question": "Will the SPD win less than 10% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T21:04:54.241724Z",
+    "resolved_at": "2025-03-14T15:22:49Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "76149411727910340652411927162920664575063210978631206871771750567803896138889"
+  },
+  {
+    "market_id": "515908",
+    "question": "Will the SPD win over 30% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T21:09:33.226117Z",
+    "resolved_at": "2025-03-14T15:22:43Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "32173315614310251162810545358056108545117145883483721666352786166322501258766"
+  },
+  {
+    "market_id": "515907",
+    "question": "Will the SPD win 25-30% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T21:08:42.493739Z",
+    "resolved_at": "2025-03-14T15:17:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "25537274986913635231957951925102557117352725860903551748896618922397532475307"
+  },
+  {
+    "market_id": "515897",
+    "question": "Will the AfD win 15-20% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T21:01:48.772406Z",
+    "resolved_at": "2025-03-14T14:57:43Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "93169692775007701338046499933753955945858003797034999845267023970262399353804"
+  },
+  {
+    "market_id": "515879",
+    "question": "Will the AfD win over 30% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T20:20:41.05673Z",
+    "resolved_at": "2025-03-14T14:48:07Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "54141792879169246909061656630150683498070953005809982634448721223223327743898"
+  },
+  {
+    "market_id": "515877",
+    "question": "Will the AfD win 20-25% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T20:18:56.312751Z",
+    "resolved_at": "2025-03-14T14:48:05Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "103303256819146191270361980889052084887615094881605229716114937631579726195822"
+  },
+  {
+    "market_id": "515876",
+    "question": "Will the AfD win 10-15% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T20:17:33.057581Z",
+    "resolved_at": "2025-03-14T14:47:57Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "57502267803802427884579665685417748126964048624236435857941550354273534636382"
+  },
+  {
+    "market_id": "515878",
+    "question": "Will the AfD win 25-30% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T20:19:30.79076Z",
+    "resolved_at": "2025-03-14T14:43:11Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "50590995350569541543130773217099833464734527698164475480567020627331537312844"
+  },
+  {
+    "market_id": "515874",
+    "question": "Will the AfD win less than 10% of the vote in the German election?",
+    "category": "politics",
+    "created_at": "2024-12-17T20:17:03.228731Z",
+    "resolved_at": "2025-03-14T14:37:55Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "16049031791827283095580914176042893409296215621357240820065011475884655193422"
+  },
+  {
+    "market_id": "519988",
+    "question": "FDP wins 5% or more of vote in German election? ",
+    "category": "politics",
+    "created_at": "2025-01-24T20:39:52.775662Z",
+    "resolved_at": "2025-03-14T14:26:47Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "112446391348713084883886085606187858284617383769613417623113324883650202379085"
+  },
+  {
+    "market_id": "519990",
+    "question": "Will The Left wins 5% or more of vote in German election? ",
+    "category": "politics",
+    "created_at": "2025-01-24T20:49:02.916979Z",
+    "resolved_at": "2025-03-14T14:26:41Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "6125582110835727538151305579435977678723589958191964395602142063993313223630"
+  },
+  {
+    "market_id": "520776",
+    "question": "2025 February hottest on record?",
+    "category": "other",
+    "created_at": "2025-01-29T15:31:31.632071Z",
+    "resolved_at": "2025-03-11T20:05:36Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "15539754711823174381923352872611568187656682459271576245596750725840893266345"
+  },
+  {
+    "market_id": "520898",
+    "question": "Will global temperature increase by less than 1.20\u00baC in February 2025?",
+    "category": "other",
+    "created_at": "2025-01-29T21:48:45.645412Z",
+    "resolved_at": "2025-03-11T18:26:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "109410696651890192545635834549301371841390335079240187739255349349233138746188"
+  },
+  {
+    "market_id": "520901",
+    "question": "Will global temperature increase by between 1.30-1.34\u00baC in February 2025?",
+    "category": "other",
+    "created_at": "2025-01-29T21:48:48.687969Z",
+    "resolved_at": "2025-03-11T18:21:23Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "69243678665748877286266383911001725646508845148783374540447525297087646871546"
+  },
+  {
+    "market_id": "520902",
+    "question": "Will global temperature increase by between 1.35-1.39\u00baC in February 2025?",
+    "category": "other",
+    "created_at": "2025-01-29T21:48:49.68684Z",
+    "resolved_at": "2025-03-11T18:21:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "58608546148993790611425657753479881075416816117147748035038275281026078006485"
+  },
+  {
+    "market_id": "520903",
+    "question": "Will global temperature increase by more than 1.39\u00baC in February 2025?",
+    "category": "other",
+    "created_at": "2025-01-29T21:48:50.674717Z",
+    "resolved_at": "2025-03-11T18:21:15Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "79151241584384878895993350987927167433380657206546754173410343722622787866671"
+  },
+  {
+    "market_id": "520900",
+    "question": "Will global temperature increase by between 1.25-1.29\u00baC in February 2025?",
+    "category": "other",
+    "created_at": "2025-01-29T21:48:47.632981Z",
+    "resolved_at": "2025-03-11T18:16:41Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "10043006318496688039601465510154498484984121544176577545807437390241899351343"
+  },
+  {
+    "market_id": "520899",
+    "question": "Will global temperature increase by between 1.20-1.24\u00baC in February 2025?",
+    "category": "other",
+    "created_at": "2025-01-29T21:48:46.640244Z",
+    "resolved_at": "2025-03-11T18:16:39Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "13535479870841136953390534177397919006142241749008852124344884545808010344176"
+  },
+  {
+    "market_id": "519046",
+    "question": "Will Trump attend SpaceX Starship Flight Test 8?",
+    "category": "other",
+    "created_at": "2025-01-17T17:40:05.025193Z",
+    "resolved_at": "2025-03-07T02:08:49Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "56018213015530181185152964410439472291825417213663446085488194240452479717500"
+  },
+  {
+    "market_id": "519045",
+    "question": "Will SpaceX Starship Flight Test 8 launch before April?",
+    "category": "other",
+    "created_at": "2025-01-17T17:37:24.511522Z",
+    "resolved_at": "2025-03-07T01:39:53Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "66266250413394606441775173532184503584912392251080462315006939076892459746290"
+  },
+  {
+    "market_id": "525805",
+    "question": "Will SpaceX Starship Flight Test 8 launch before March 15?",
+    "category": "other",
+    "created_at": "2025-02-27T17:02:15.671007Z",
+    "resolved_at": "2025-03-07T01:39:51Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "45615105186616912889035020456286581753846133982687834066005539717299140756718"
+  },
+  {
+    "market_id": "524476",
+    "question": "Will Bybit buy >$1b ETH by next Friday?",
+    "category": "crypto",
+    "created_at": "2025-02-21T17:56:57.683028Z",
+    "resolved_at": "2025-03-07T01:09:57Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "37739391448850587231527946933816563818248887375422172319870392949936639299535"
+  },
+  {
+    "market_id": "522871",
+    "question": "Will Montoya stay with his girlfriend?",
+    "category": "other",
+    "created_at": "2025-02-11T17:31:12.883121Z",
+    "resolved_at": "2025-03-06T13:53:29Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "91977935511961460101175411926790261333021344811048504669051339462503049021072"
+  },
+  {
+    "market_id": "525158",
+    "question": "Another commercial airline evacuation before March?",
+    "category": "other",
+    "created_at": "2025-02-24T23:09:40.829562Z",
+    "resolved_at": "2025-03-05T04:21:33Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "22984048064579324158448857974742384793645209479790874729923287298522436162419"
+  },
+  {
+    "market_id": "524486",
+    "question": "Will Trump's 538 approval rating be between 47.5% and 47.9% on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T18:48:42.186497Z",
+    "resolved_at": "2025-03-03T19:28:00Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "88723032318114956005303442753057927416023599179674688272521402527138921044688"
+  },
+  {
+    "market_id": "524485",
+    "question": "Will Trump's 538 approval rating be less than 47.5% on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T18:48:39.002092Z",
+    "resolved_at": "2025-03-03T19:27:54Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "51361333607406688133222409216729509325025161801359127649906499253399753162334"
+  },
+  {
+    "market_id": "524487",
+    "question": "Will Trump's 538 approval rating be between 48.0% and 48.4% on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T18:48:43.229834Z",
+    "resolved_at": "2025-03-03T19:27:50Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "90858761125938679680317245854758488305152626142089444274714550873045728786465"
+  },
+  {
+    "market_id": "524488",
+    "question": "Will Trump's 538 approval rating be between 48.5% and 48.9% on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T18:48:44.287477Z",
+    "resolved_at": "2025-03-03T19:23:18Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "12039432493093588420366879374607485387820325275572986366952031719101446470000"
+  },
+  {
+    "market_id": "524489",
+    "question": "Will Trump's 538 approval rating be between 49.0% and 49.4% on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T18:48:45.191064Z",
+    "resolved_at": "2025-03-03T19:23:08Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "74970084706892609244427865862561207810141116001867093673415372062110782909212"
+  },
+  {
+    "market_id": "524490",
+    "question": "Will Trump's 538 approval rating be 49.5% or higher on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T18:48:46.110149Z",
+    "resolved_at": "2025-03-03T19:18:10Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "95004808360741207106953693392967644196462557994458887865106781506900898401435"
+  },
+  {
+    "market_id": "522030",
+    "question": "Trump negative approval before March?",
+    "category": "other",
+    "created_at": "2025-02-06T17:31:23.452275Z",
+    "resolved_at": "2025-03-03T18:25:28Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "4277970744020702251965125605351255902540315349799975944983097672445907818201"
+  },
+  {
+    "market_id": "524986",
+    "question": "Will Trump issue an executive order on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T16:42:58.340639Z",
+    "resolved_at": "2025-03-03T03:50:34Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "86832968899029610004951997660077299337278306151220197127551339969282951133112"
+  },
+  {
+    "market_id": "525144",
+    "question": "Will Donald Trump sign 30-31 executive orders in February?",
+    "category": "other",
+    "created_at": "2025-02-24T21:05:53.732573Z",
+    "resolved_at": "2025-03-03T03:45:24Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "58099123880395157106773752554527627224438651327174770399823951170718370208871"
+  },
+  {
+    "market_id": "525145",
+    "question": "Will Donald Trump sign 32-33 executive orders in February?",
+    "category": "other",
+    "created_at": "2025-02-24T21:05:54.1076Z",
+    "resolved_at": "2025-03-03T02:23:42Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "50801540045878763670513270947180402150020314538601375630682210430765327299826"
+  },
+  {
+    "market_id": "525726",
+    "question": "Trump releases Epstein list today?",
+    "category": "other",
+    "created_at": "2025-02-27T05:32:01.185326Z",
+    "resolved_at": "2025-03-03T00:52:48Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "53991205535397185196292444587899654425036926800380629851404142367998681248725"
+  },
+  {
+    "market_id": "525146",
+    "question": "Will Donald Trump sign 34 or more executive orders in February?",
+    "category": "other",
+    "created_at": "2025-02-24T21:05:54.469762Z",
+    "resolved_at": "2025-03-02T20:03:59Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "66399418581008731483816024421488312118004026024171992846736248165826900409346"
+  },
+  {
+    "market_id": "525142",
+    "question": "Will Donald Trump sign less than 28 executive orders in February?",
+    "category": "other",
+    "created_at": "2025-02-24T21:05:52.912534Z",
+    "resolved_at": "2025-03-02T18:49:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "109022055382571322068429126391212147847205171051619068362862624992010483897116"
+  },
+  {
+    "market_id": "525143",
+    "question": "Will Donald Trump sign 28-29 executive orders in February?",
+    "category": "other",
+    "created_at": "2025-02-24T21:05:53.343923Z",
+    "resolved_at": "2025-03-02T17:49:00Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "107563995908003141063316194851181531044317826826629750032448986870279893960599"
+  },
+  {
+    "market_id": "521345",
+    "question": "Will Elon Musk's net worth be between $435 - 440b on February 28?",
+    "category": "other",
+    "created_at": "2025-01-31T23:39:48.930117Z",
+    "resolved_at": "2025-03-02T08:19:45Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "46999730934070279771290149132470689148012557116135190066289430174085179616689"
+  },
+  {
+    "market_id": "521346",
+    "question": "Will Elon Musk's net worth be more than $440b on February 28?",
+    "category": "other",
+    "created_at": "2025-01-31T23:39:49.299994Z",
+    "resolved_at": "2025-03-02T08:19:41Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "38180081489181920460779752302122530330684866399246200345373870201983446432503"
+  },
+  {
+    "market_id": "521342",
+    "question": "Will Elon Musk's net worth be between $420 - 425b on February 28?",
+    "category": "other",
+    "created_at": "2025-01-31T23:39:47.787691Z",
+    "resolved_at": "2025-03-02T08:14:26Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "99116550401812719477418029988431598617620164931125956872193769073596552370432"
+  },
+  {
+    "market_id": "521344",
+    "question": "Will Elon Musk's net worth be between $430 - 435b on February 28?",
+    "category": "other",
+    "created_at": "2025-01-31T23:39:48.547121Z",
+    "resolved_at": "2025-03-02T08:14:20Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "15146303858408664546545507801925996017327274183334976725269326397263350619325"
+  },
+  {
+    "market_id": "521343",
+    "question": "Will Elon Musk's net worth be between $425 - 430b on February 28?",
+    "category": "other",
+    "created_at": "2025-01-31T23:39:48.162059Z",
+    "resolved_at": "2025-03-02T08:09:20Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "35914304003302057084647951183982512009142264411716386947674129087627029318649"
+  },
+  {
+    "market_id": "521341",
+    "question": "Will Elon Musk's net worth be less than $420b on February 28?",
+    "category": "other",
+    "created_at": "2025-01-31T23:39:47.365825Z",
+    "resolved_at": "2025-03-02T07:58:59Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "74427576501643423666239282376451271951380568540375705705622925545615126801901"
+  },
+  {
+    "market_id": "520990",
+    "question": "Will ICE detain 800+ people on February 1?",
+    "category": "other",
+    "created_at": "2025-01-30T17:30:36.735849Z",
+    "resolved_at": "2025-03-02T07:13:34Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "45906277780176095275618745862367023734822041415656296770473232657930411439937"
+  },
+  {
+    "market_id": "526061",
+    "question": "Will Trump make English the national language?",
+    "category": "other",
+    "created_at": "2025-02-28T15:49:23.72931Z",
+    "resolved_at": "2025-03-02T06:52:49Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "100794588300625447100698059458001879333618476523589399395823209885946695181995"
+  },
+  {
+    "market_id": "520753",
+    "question": "Will 100-150k federal employees accept the buyout?",
+    "category": "economics",
+    "created_at": "2025-01-29T03:01:52.139983Z",
+    "resolved_at": "2025-03-02T04:22:34Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "109613376129632397237729926493592855402590323416187553531625953672364508599752"
+  },
+  {
+    "market_id": "520754",
+    "question": "Will 150-200k federal employees accept the buyout?",
+    "category": "economics",
+    "created_at": "2025-01-29T03:01:52.474589Z",
+    "resolved_at": "2025-03-02T02:40:49Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "79234758915291968442616131532636079219697726362223841237749089480680492827485"
+  },
+  {
+    "market_id": "520756",
+    "question": "Will 250-300k federal employees accept the buyout?",
+    "category": "economics",
+    "created_at": "2025-01-29T03:01:53.100562Z",
+    "resolved_at": "2025-03-02T02:35:40Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "15822031247146976499431909248783232484888206658332535807483280008200493934449"
+  },
+  {
+    "market_id": "520755",
+    "question": "Will 200-250k federal employees accept the buyout?",
+    "category": "economics",
+    "created_at": "2025-01-29T03:01:52.789966Z",
+    "resolved_at": "2025-03-02T02:35:36Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "115595730282396481570899542105012191899880514339926501553433010227667408450672"
+  },
+  {
+    "market_id": "520757",
+    "question": "Will 300-350k federal employees accept the buyout?",
+    "category": "economics",
+    "created_at": "2025-01-29T03:01:53.43967Z",
+    "resolved_at": "2025-03-02T02:30:43Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "74567846584260579726352444850533254051763785785664120811691768858003672716321"
+  },
+  {
+    "market_id": "520759",
+    "question": "Will 400-450k federal employees accept the buyout?",
+    "category": "economics",
+    "created_at": "2025-01-29T03:01:54.177094Z",
+    "resolved_at": "2025-03-02T02:30:37Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "84186970708779489366419034574613693409889580679027191114337452666156821135122"
+  },
+  {
+    "market_id": "520758",
+    "question": "Will 350-400k federal employees accept the buyout?",
+    "category": "economics",
+    "created_at": "2025-01-29T03:01:53.777943Z",
+    "resolved_at": "2025-03-02T02:30:33Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "88781253554369639841292132764534445251654437577206372836153641678572765164571"
+  },
+  {
+    "market_id": "520760",
+    "question": "Will 450-500k federal employees accept the buyout?",
+    "category": "economics",
+    "created_at": "2025-01-29T03:01:54.526051Z",
+    "resolved_at": "2025-03-02T02:30:29Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "52041164798419815182972329694302041897484458621646926214353806681183451691441"
+  },
+  {
+    "market_id": "520752",
+    "question": "Will 50-100k federal employees accept the buyout?",
+    "category": "economics",
+    "created_at": "2025-01-29T03:01:51.780869Z",
+    "resolved_at": "2025-03-02T02:30:23Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "97642012322549260727210904908287151146383152552499611115299329102422414385833"
+  },
+  {
+    "market_id": "520761",
+    "question": "Will 500k or more federal employees accept the buyout?",
+    "category": "economics",
+    "created_at": "2025-01-29T03:01:54.891921Z",
+    "resolved_at": "2025-03-02T02:30:17Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "18301353947962850091226619047582837000661364843686464022621863619712848920968"
+  },
+  {
+    "market_id": "520751",
+    "question": "Will fewer than 50k federal employees accept the buyout?",
+    "category": "economics",
+    "created_at": "2025-01-29T03:01:51.440977Z",
+    "resolved_at": "2025-03-02T02:24:49Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "99070028445440407354300185846313955761475020685924010689455450644767135841771"
+  },
+  {
+    "market_id": "525291",
+    "question": "Will Trump issue an executive order on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:33:27.162847Z",
+    "resolved_at": "2025-03-02T02:02:10Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "6463164842642415448061766009736271082895778134111498800658243828976427502950"
+  },
+  {
+    "market_id": "521458",
+    "question": "Will Trump remove tariff on China before March?",
+    "category": "other",
+    "created_at": "2025-02-02T18:58:26.879978Z",
+    "resolved_at": "2025-03-02T00:22:41Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "95915551936677700905474113022746896025783364926832543949987890615361863327156"
+  },
+  {
+    "market_id": "521459",
+    "question": "Will Trump remove tariff on Canada before March?",
+    "category": "other",
+    "created_at": "2025-02-02T19:01:58.816649Z",
+    "resolved_at": "2025-03-01T22:18:32Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "78073890696403180861776937177466475859734739744697462770140645240831850110728"
+  },
+  {
+    "market_id": "521460",
+    "question": "Will Trump remove tariff on Mexico before March?",
+    "category": "other",
+    "created_at": "2025-02-02T19:05:18.051479Z",
+    "resolved_at": "2025-03-01T17:02:50Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "34467141883660271732283958167897670265127546198159266483279042349647311213502"
+  },
+  {
+    "market_id": "519590",
+    "question": "Will Trump sanction Russia before March?",
+    "category": "other",
+    "created_at": "2025-01-22T16:12:40.905374Z",
+    "resolved_at": "2025-03-01T13:32:10Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "35213895761030058866285067138528466433619181525480159401717837107919002105602"
+  },
+  {
+    "market_id": "525279",
+    "question": "Georgescu released from custody by Friday?",
+    "category": "other",
+    "created_at": "2025-02-26T15:35:15.455752Z",
+    "resolved_at": "2025-03-01T10:45:29Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "63986300783304463313888844549709800938826075977655571392368394578481026270668"
+  },
+  {
+    "market_id": "525178",
+    "question": "Will Portnoy launch $greed3 in February?",
+    "category": "other",
+    "created_at": "2025-02-25T15:30:05.887858Z",
+    "resolved_at": "2025-03-01T10:00:31Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "87801165112751602723802686265807518646589088409337474243517756046389686402072"
+  },
+  {
+    "market_id": "525306",
+    "question": "Will the highest temperature in NYC be between 52-53\u00b0F on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:43:18.892554Z",
+    "resolved_at": "2025-03-01T09:58:51Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "91981898191544005484129709092978104906140337949141258360268700000905849760212"
+  },
+  {
+    "market_id": "525307",
+    "question": "Will the highest temperature in NYC be 54\u00b0F or higher on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:43:19.623557Z",
+    "resolved_at": "2025-03-01T09:58:45Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "95894852099155483175774585242883387187151105616379992175490806751277721336993"
+  },
+  {
+    "market_id": "525173",
+    "question": "Is the @SBF_DOGE account on X real?",
+    "category": "other",
+    "created_at": "2025-02-25T03:55:53.059442Z",
+    "resolved_at": "2025-03-01T09:36:27Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "86969769436664223026423104257286644091476918090333189537286437133641226077066"
+  },
+  {
+    "market_id": "525168",
+    "question": "Will SBF tweet again by Friday?",
+    "category": "other",
+    "created_at": "2025-02-25T02:26:33.40155Z",
+    "resolved_at": "2025-03-01T09:36:21Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "20071554633283590530768627302402747658491570820871500316839386639510970807368"
+  },
+  {
+    "market_id": "520537",
+    "question": "DeepSeek confirmed to have used banned Nvidia chips?",
+    "category": "other",
+    "created_at": "2025-01-27T21:16:08.913435Z",
+    "resolved_at": "2025-03-01T09:21:09Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "68489249575779794675814056905510424597574133077652710561952851629351839482272"
+  },
+  {
+    "market_id": "525276",
+    "question": "Mary Kate Cornett breakup by Friday?",
+    "category": "other",
+    "created_at": "2025-02-26T15:16:23.680072Z",
+    "resolved_at": "2025-03-01T09:15:47Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "21789014728103829316015812178314016937170456784265625301906676630392710039198"
+  },
+  {
+    "market_id": "520639",
+    "question": "Will Pete Buttigieg announce Michigan Senate run before March?",
+    "category": "politics",
+    "created_at": "2025-01-28T17:10:21.231248Z",
+    "resolved_at": "2025-03-01T09:15:43Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "69469748891158210714533048880474331149439624895541041476173178380611938476591"
+  },
+  {
+    "market_id": "519903",
+    "question": "Trump's birthright citizenship ban unblocked before March?",
+    "category": "other",
+    "created_at": "2025-01-24T17:23:04.591536Z",
+    "resolved_at": "2025-03-01T09:11:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "18823629790753772111323430612188319253148008553600202442180990614337698402441"
+  },
+  {
+    "market_id": "520788",
+    "question": "Will Trump Media invest in Ethereum before March?",
+    "category": "crypto",
+    "created_at": "2025-01-29T17:11:07.390774Z",
+    "resolved_at": "2025-03-01T09:11:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "44388066235019320259593336301118894355509707748521724269979481709310100823419"
+  },
+  {
+    "market_id": "520790",
+    "question": "Will Trump Media invest in $TRUMP before March?",
+    "category": "other",
+    "created_at": "2025-01-29T17:27:24.535099Z",
+    "resolved_at": "2025-03-01T09:11:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "15240571372634881294068703118368544654616935554418941325857366189563176803267"
+  },
+  {
+    "market_id": "519322",
+    "question": "New state Bitcoin reserve before March?",
+    "category": "crypto",
+    "created_at": "2025-01-21T15:16:36.144337Z",
+    "resolved_at": "2025-03-01T09:05:27Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "107868537621042592172271172911402804108726126874901552658852097903039335494415"
+  },
+  {
+    "market_id": "520786",
+    "question": "Will Trump Media invest in Bitcoin before March?",
+    "category": "crypto",
+    "created_at": "2025-01-29T16:52:52.210583Z",
+    "resolved_at": "2025-03-01T09:05:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "46585671478004364859153902227154793752300773613458723333877441892587447162429"
+  },
+  {
+    "market_id": "514714",
+    "question": "Lily Phillips has sex with between 500-749 men in a day?",
+    "category": "other",
+    "created_at": "2024-12-04T20:16:50.380856Z",
+    "resolved_at": "2025-03-01T09:05:03Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "59715057189778084494962113038555189978952179537882817792133168477096979542826"
+  },
+  {
+    "market_id": "514712",
+    "question": "Lily Phillips has sex with between 250-499 men in a day?",
+    "category": "other",
+    "created_at": "2024-12-04T20:16:03.403565Z",
+    "resolved_at": "2025-03-01T09:04:57Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "77667190004529668450112094953320600836559612676850984864574380861071251823548"
+  },
+  {
+    "market_id": "514710",
+    "question": "Lily Phillips has sex with between 1-249 men in a day?",
+    "category": "other",
+    "created_at": "2024-12-04T20:15:22.595234Z",
+    "resolved_at": "2025-03-01T09:00:03Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "67960072829718253024280752547563562377156334041297018092161527653813388620175"
+  },
+  {
+    "market_id": "514718",
+    "question": "Lily Phillips has sex with between 750-999 men in a day?",
+    "category": "other",
+    "created_at": "2024-12-04T20:17:54.426082Z",
+    "resolved_at": "2025-03-01T08:59:57Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "13832559596829843042771810829210600849399319242739441085449764557340789988001"
+  },
+  {
+    "market_id": "514720",
+    "question": "Lily Phillips has sex with 1000+ men in a day?",
+    "category": "other",
+    "created_at": "2024-12-04T20:20:07.781263Z",
+    "resolved_at": "2025-03-01T08:59:53Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "27161935020896377579430688273119851304469121148738713178191653277797950876766"
+  },
+  {
+    "market_id": "514706",
+    "question": "Lily Phillips sex event cancelled?",
+    "category": "other",
+    "created_at": "2024-12-04T20:10:44.797443Z",
+    "resolved_at": "2025-03-01T08:45:47Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "83706845118626234942556105618883307727285037197286081650182391347457349874882"
+  },
+  {
+    "market_id": "520076",
+    "question": "Israel withdraws from Lebanon before March?",
+    "category": "other",
+    "created_at": "2025-01-24T21:28:27.317662Z",
+    "resolved_at": "2025-03-01T08:40:33Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "104256375109223476714314999651207244329250257341659808900049414549259039844574"
+  },
+  {
+    "market_id": "517031",
+    "question": "Will MicroStrategy hold 500k+ BTC before March?",
+    "category": "crypto",
+    "created_at": "2025-01-01T13:26:08.759218Z",
+    "resolved_at": "2025-03-01T08:35:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "40736765159302363627073451425692544824355848432011438829146536911648951255974"
+  },
+  {
+    "market_id": "522551",
+    "question": "Will Anthony Davis play before March?",
+    "category": "other",
+    "created_at": "2025-02-10T17:14:49.020213Z",
+    "resolved_at": "2025-03-01T08:35:13Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "77240309640692710173149427183642005021773668783765901496961906828177091038648"
+  },
+  {
+    "market_id": "521907",
+    "question": "Will 10% or more CIA personnel accept buyout offer before March?",
+    "category": "other",
+    "created_at": "2025-02-05T20:05:34.619993Z",
+    "resolved_at": "2025-03-01T08:29:55Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "68163133839265511419218810212004543094605735913695171383015633606728348237706"
+  },
+  {
+    "market_id": "521839",
+    "question": "Will Trump cut NPR funding in February?",
+    "category": "other",
+    "created_at": "2025-02-04T22:27:35.947257Z",
+    "resolved_at": "2025-03-01T08:20:06Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "85883239129381789757712542190362931105060517744563621655557996239342845982491"
+  },
+  {
+    "market_id": "522679",
+    "question": "Will Trump cut aid to Jordan or Egypt before March? ",
+    "category": "other",
+    "created_at": "2025-02-11T03:50:51.810477Z",
+    "resolved_at": "2025-03-01T08:15:06Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "20886598524111819051298037028778460235757468381012431407097394291416630269920"
+  },
+  {
+    "market_id": "522249",
+    "question": "Big Balls removed from DOGE in February?",
+    "category": "other",
+    "created_at": "2025-02-08T00:44:29.276244Z",
+    "resolved_at": "2025-03-01T08:09:59Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "112763058284730631503113486676321131508146091911107180677081212791574299816581"
+  },
+  {
+    "market_id": "523559",
+    "question": "Will another country launch a memecoin in February?",
+    "category": "other",
+    "created_at": "2025-02-14T22:32:50.651861Z",
+    "resolved_at": "2025-03-01T08:09:47Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "71591808121981680346672234305914896640052482325559852829280381012546634563043"
+  },
+  {
+    "market_id": "522080",
+    "question": "Will Kanye launch a coin in February?",
+    "category": "other",
+    "created_at": "2025-02-07T14:01:01.741824Z",
+    "resolved_at": "2025-03-01T08:00:23Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "75225030670558632440769351620781713566252631196298400408280257677925960118896"
+  },
+  {
+    "market_id": "523147",
+    "question": "Israel x Hamas ceasefire cancelled before March?",
+    "category": "other",
+    "created_at": "2025-02-12T19:09:28.848027Z",
+    "resolved_at": "2025-03-01T08:00:17Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "61555654585516908155757978881186089855953987831415417974139232504710426993433"
+  },
+  {
+    "market_id": "519853",
+    "question": "Will US gov sell Bitcoin before March?",
+    "category": "crypto",
+    "created_at": "2025-01-23T23:22:53.963333Z",
+    "resolved_at": "2025-03-01T08:00:13Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "78685587394829437315569172042363852675419441987393815563012195443627746223050"
+  },
+  {
+    "market_id": "525280",
+    "question": "Ukraine agrees to Trump mineral deal by Friday?",
+    "category": "other",
+    "created_at": "2025-02-26T15:53:09.75649Z",
+    "resolved_at": "2025-03-01T08:00:07Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "10295687264235762077207188901997657275041176630361076212223150723149020148812"
+  },
+  {
+    "market_id": "522553",
+    "question": "Will Gold hit $3,000 before March?",
+    "category": "other",
+    "created_at": "2025-02-10T19:26:52.83489Z",
+    "resolved_at": "2025-03-01T07:55:37Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "5773689419644126973132838634654793698779857559844140330604743497367289419598"
+  },
+  {
+    "market_id": "520621",
+    "question": "Will Elon reach #1 in Path of Exile 2 before March?",
+    "category": "other",
+    "created_at": "2025-01-28T16:24:14.773169Z",
+    "resolved_at": "2025-03-01T07:55:33Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "34903150535579516944408642969393358898233907149423176755384736522963571947712"
+  },
+  {
+    "market_id": "522201",
+    "question": "Ye banned on X in February?",
+    "category": "other",
+    "created_at": "2025-02-07T19:55:24.063014Z",
+    "resolved_at": "2025-03-01T07:55:21Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "93875809091092880100545810798288184644934952150483488507716619964732815924813"
+  },
+  {
+    "market_id": "517629",
+    "question": "Will Elon be worth $500b before March?",
+    "category": "other",
+    "created_at": "2025-01-06T19:22:23.277925Z",
+    "resolved_at": "2025-03-01T07:51:45Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "95411644083689269375313791923858543076202141220229395252707285274360411616132"
+  },
+  {
+    "market_id": "520819",
+    "question": "Alibaba AI model better than DeepSeek before March?",
+    "category": "other",
+    "created_at": "2025-01-29T18:46:16.89212Z",
+    "resolved_at": "2025-03-01T07:51:45Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "51194947117727115692381923688338546671047336247623974282123779757158526499014"
+  },
+  {
+    "market_id": "520750",
+    "question": "SpaceX rescues stranded astronauts before March?",
+    "category": "other",
+    "created_at": "2025-01-28T23:14:28.390537Z",
+    "resolved_at": "2025-03-01T07:51:45Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "82759042687076002328294747274759254328116710680559096509879187896344635782359"
+  },
+  {
+    "market_id": "521497",
+    "question": "Will Russia capture territory in Dnipropetrovsk Oblast by February 28?",
+    "category": "other",
+    "created_at": "2025-02-03T03:50:07.934423Z",
+    "resolved_at": "2025-03-01T07:51:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "17040534783941015716697638364341282459979547549006646581328980649494013502286"
+  },
+  {
+    "market_id": "521099",
+    "question": "Will Russia recapture Sudzha by February 28?",
+    "category": "other",
+    "created_at": "2025-01-31T00:18:00.692943Z",
+    "resolved_at": "2025-03-01T07:50:59Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "89801649314610984408520170547051732913421887447208281397415036168165048792513"
+  },
+  {
+    "market_id": "519044",
+    "question": "Will SpaceX Starship Flight Test 8 launch before March?",
+    "category": "other",
+    "created_at": "2025-01-17T17:36:54.72719Z",
+    "resolved_at": "2025-03-01T07:50:49Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "19734993437068939980019281044508330841139777728170811396010143713823104274746"
+  },
+  {
+    "market_id": "521223",
+    "question": "Will Solana hit $250 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T19:29:57.897131Z",
+    "resolved_at": "2025-03-01T07:50:47Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "96163997683978563077904451679531652923239383387233035056083504102576850753685"
+  },
+  {
+    "market_id": "520263",
+    "question": "DeepSeek better than all OpenAI models before March?",
+    "category": "other",
+    "created_at": "2025-01-26T23:37:30.664576Z",
+    "resolved_at": "2025-03-01T07:46:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "101184702354589262049327522037950023205402196410408427144389286011976615756287"
+  },
+  {
+    "market_id": "519854",
+    "question": "Yoon released from custody before March?",
+    "category": "other",
+    "created_at": "2025-01-23T23:55:19.650051Z",
+    "resolved_at": "2025-03-01T07:46:03Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "94737248151580595718112814920299480946232029360630045882860940643744896365425"
+  },
+  {
+    "market_id": "521176",
+    "question": "Will Ethereum hit $4250 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T18:08:28.139711Z",
+    "resolved_at": "2025-03-01T07:42:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "61252757618710611569118825793888293125407507408428508758265152973446609372664"
+  },
+  {
+    "market_id": "514753",
+    "question": "Lily Phillips breaks record for sex in one day?",
+    "category": "other",
+    "created_at": "2024-12-04T20:58:52.202702Z",
+    "resolved_at": "2025-03-01T07:42:15Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "38028251724304232507732607001360904970700770086971875365110455028990283209761"
+  },
+  {
+    "market_id": "521174",
+    "question": "Will Ethereum hit $4750 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T18:08:27.521337Z",
+    "resolved_at": "2025-03-01T07:42:09Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "34772491144848418257144598654672543233237663398345391005102506966086981395779"
+  },
+  {
+    "market_id": "519612",
+    "question": "Will Ross Ulbricht go on Joe Rogan before March?",
+    "category": "other",
+    "created_at": "2025-01-22T17:36:20.59935Z",
+    "resolved_at": "2025-03-01T07:42:07Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "58276928204761727103403343346184743172758423279346720470019799637278643978756"
+  },
+  {
+    "market_id": "522041",
+    "question": "Ireland, Norway, or Spain accepts Gazan refugees in February?",
+    "category": "other",
+    "created_at": "2025-02-06T18:55:43.590673Z",
+    "resolved_at": "2025-03-01T07:42:01Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "62107205001512024082998793167912400045569505194908154048699665143209940035490"
+  },
+  {
+    "market_id": "521229",
+    "question": "Will Solana dip to $100 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T19:29:59.340437Z",
+    "resolved_at": "2025-03-01T07:41:55Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "64354470275867898407132407876919858036213311183230851685184030200743844433806"
+  },
+  {
+    "market_id": "524126",
+    "question": "Will Putin meet with Trump in February?",
+    "category": "other",
+    "created_at": "2025-02-19T18:59:13.786328Z",
+    "resolved_at": "2025-03-01T07:41:51Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "73340446424510592612025564698291174499865494146612405455135186876267528842892"
+  },
+  {
+    "market_id": "522211",
+    "question": "Dave Portnoy in jail before March?",
+    "category": "other",
+    "created_at": "2025-02-07T20:50:53.634835Z",
+    "resolved_at": "2025-03-01T07:41:45Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "85665992406172815637889534369300692933953322793387209713420118224047707491646"
+  },
+  {
+    "market_id": "524443",
+    "question": "Will Bybit hacker return stolen ETH by next Friday?",
+    "category": "crypto",
+    "created_at": "2025-02-21T15:59:11.02073Z",
+    "resolved_at": "2025-03-01T07:41:41Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "75308642383884053055887532369678588949973429833702854179159891699455535606127"
+  },
+  {
+    "market_id": "515098",
+    "question": "Will the U.S. remove HTS from terror list before March?",
+    "category": "other",
+    "created_at": "2024-12-09T16:07:04.684711Z",
+    "resolved_at": "2025-03-01T07:41:35Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "20106305127615915926187686803248401361997704428780534805029554815811345642982"
+  },
+  {
+    "market_id": "521082",
+    "question": "Will the New Democrats win the most seats in the next Ontario Parliamentary election?",
+    "category": "politics",
+    "created_at": "2025-01-30T22:14:21.529931Z",
+    "resolved_at": "2025-03-01T07:41:31Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "75933364249753475395435658792247152204343031082318396296130251694888090778403"
+  },
+  {
+    "market_id": "521085",
+    "question": "Will the another party win the most seats in the next Ontario Parliamentary election?",
+    "category": "politics",
+    "created_at": "2025-01-30T22:14:22.390946Z",
+    "resolved_at": "2025-03-01T07:41:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "103123467095292199606109038325319046488713266658602593907543118880069622143451"
+  },
+  {
+    "market_id": "521084",
+    "question": "Will the Greens win the most seats in the next Ontario Parliamentary election?",
+    "category": "politics",
+    "created_at": "2025-01-30T22:14:22.103306Z",
+    "resolved_at": "2025-03-01T07:41:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "75267300919032618570703314817872537934533077353035975644490324230264558550663"
+  },
+  {
+    "market_id": "521083",
+    "question": "Will the Liberals win the most seats in the next Ontario Parliamentary election?",
+    "category": "politics",
+    "created_at": "2025-01-30T22:14:21.826833Z",
+    "resolved_at": "2025-03-01T07:37:17Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "103794298297301740800798922121844757383064825406489600378559276903182166589074"
+  },
+  {
+    "market_id": "521081",
+    "question": "Will the Progressive Conservatives win the most seats in the next Ontario Parliamentary election?",
+    "category": "politics",
+    "created_at": "2025-01-30T22:14:21.217657Z",
+    "resolved_at": "2025-03-01T07:37:13Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "83805164650685542420590595646144956760560101038162497845954312632514697734138"
+  },
+  {
+    "market_id": "524537",
+    "question": "Will another party win the second most seats in the next Ontario Parliamentary election?",
+    "category": "politics",
+    "created_at": "2025-02-21T21:01:57.488684Z",
+    "resolved_at": "2025-03-01T07:37:07Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "39863473826923000793809185751872601350797511997332721392848169085390519292709"
+  },
+  {
+    "market_id": "521177",
+    "question": "Will Ethereum hit $4000 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T18:08:28.456542Z",
+    "resolved_at": "2025-03-01T07:37:03Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "81276554024645704298849820922533034232852366888461793815405431255111370236213"
+  },
+  {
+    "market_id": "520674",
+    "question": "Will Trump impose tariffs on Taiwan before March?",
+    "category": "other",
+    "created_at": "2025-01-28T19:10:16.546008Z",
+    "resolved_at": "2025-03-01T07:36:59Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "59722104453753604194479291771536591519344624674361988320533867451878533725101"
+  },
+  {
+    "market_id": "520747",
+    "question": "Gustavo Petro out as Colombia president before March?",
+    "category": "politics",
+    "created_at": "2025-01-28T22:49:44.846073Z",
+    "resolved_at": "2025-03-01T07:36:53Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "88936788129453974893408180432538674034104122978243291761349965340271500977317"
+  },
+  {
+    "market_id": "521171",
+    "question": "Will o3-mini be better than DeepSeek before March?",
+    "category": "other",
+    "created_at": "2025-01-31T17:08:00.027968Z",
+    "resolved_at": "2025-03-01T07:36:47Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "52703331708688757825977000561782999975909225226128315056958448525754993707259"
+  },
+  {
+    "market_id": "519682",
+    "question": "Mariann Budde out as DC Bishop before March?",
+    "category": "other",
+    "created_at": "2025-01-22T21:38:40.503265Z",
+    "resolved_at": "2025-03-01T07:36:37Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "61809350159570609901024727034398276848427173069710976400314820341001174195893"
+  },
+  {
+    "market_id": "521250",
+    "question": "Will XRP reach $3.20 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T21:29:59.969926Z",
+    "resolved_at": "2025-03-01T07:36:33Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "1914199124658352087489147750850815350109966706828835994937298408419420041995"
+  },
+  {
+    "market_id": "519285",
+    "question": "Will John Fetterman leave the Democratic Party before March?",
+    "category": "other",
+    "created_at": "2025-01-21T01:02:24.103407Z",
+    "resolved_at": "2025-03-01T07:36:29Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "56955320613864801542895298135519876937913771804155357656562693677209077993169"
+  },
+  {
+    "market_id": "520789",
+    "question": "Will Trump Media invest in Solana before March?",
+    "category": "crypto",
+    "created_at": "2025-01-29T17:21:00.227172Z",
+    "resolved_at": "2025-03-01T07:36:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "31810859182011552540469786843151228380742430051647856509579149681733340814619"
+  },
+  {
+    "market_id": "519623",
+    "question": "Will Elon Musk visit Stargate Texas site before March?",
+    "category": "other",
+    "created_at": "2025-01-22T18:06:41.945153Z",
+    "resolved_at": "2025-03-01T07:36:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "55605908289065987403605144852601677935105223643945397039554919107566561687136"
+  },
+  {
+    "market_id": "524536",
+    "question": "Will the Greens win the second most seats in the next Ontario Parliamentary election?",
+    "category": "politics",
+    "created_at": "2025-02-21T21:01:56.771912Z",
+    "resolved_at": "2025-03-01T07:32:06Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "87729627634454134594827754509944027766743549228503417418306481185846333159314"
+  },
+  {
+    "market_id": "524535",
+    "question": "Will the Liberals win the second most seats in the next Ontario Parliamentary election?",
+    "category": "politics",
+    "created_at": "2025-02-21T21:01:56.029033Z",
+    "resolved_at": "2025-03-01T07:32:02Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "65363938445784216177639499140504268435264567979183647623375780408735367964319"
+  },
+  {
+    "market_id": "524533",
+    "question": "Will the Progressive Conservatives win the second most seats in the next Ontario Parliamentary election?",
+    "category": "politics",
+    "created_at": "2025-02-21T21:01:54.552158Z",
+    "resolved_at": "2025-03-01T07:31:56Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "74148986127946672314662255091211194954799216770530491315718889243201442454166"
+  },
+  {
+    "market_id": "521184",
+    "question": "Will Ethereum dip to $2000 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T18:08:30.689749Z",
+    "resolved_at": "2025-03-01T07:31:52Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "57847422425427215166731520035189169280223932342976897399835832426219666754300"
+  },
+  {
+    "market_id": "518614",
+    "question": "Will Yoon leave South Korea before March?",
+    "category": "other",
+    "created_at": "2025-01-15T00:49:37.304674Z",
+    "resolved_at": "2025-03-01T07:31:46Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "100711613237740696304651054404224306330599193190185275797992857646821562535089"
+  },
+  {
+    "market_id": "514678",
+    "question": "NATO article 5 before March?",
+    "category": "other",
+    "created_at": "2024-12-04T18:45:58.206165Z",
+    "resolved_at": "2025-03-01T07:31:40Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "34650306650025426689554558451709899422145761216885991912845225109902467403533"
+  },
+  {
+    "market_id": "521258",
+    "question": "Will Dogecoin reach $0.50 by February 28 2025?",
+    "category": "other",
+    "created_at": "2025-01-31T22:06:12.110218Z",
+    "resolved_at": "2025-03-01T07:31:36Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "23374759161371138607971153322542717764105883759332579181896988119685021604246"
+  },
+  {
+    "market_id": "521219",
+    "question": "Will Solana hit $400 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T19:29:56.991607Z",
+    "resolved_at": "2025-03-01T07:31:32Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "85370008658766689689112490376916525091727325086218258675390628194756096524848"
+  },
+  {
+    "market_id": "521260",
+    "question": "Will Dogecoin reach $0.40 by February 28 2025?",
+    "category": "other",
+    "created_at": "2025-01-31T22:06:12.594779Z",
+    "resolved_at": "2025-03-01T07:31:26Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "56242399902358002525921687049726316458735166938892562784402108046376613923969"
+  },
+  {
+    "market_id": "521266",
+    "question": "Will Dogecoin dip to $0.15 by February 28 2025?",
+    "category": "other",
+    "created_at": "2025-01-31T22:16:32.844016Z",
+    "resolved_at": "2025-03-01T07:31:20Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "45267094058695645018702824735802425336346255022152435445891268609862568221302"
+  },
+  {
+    "market_id": "521179",
+    "question": "Will Ethereum hit $3500 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T18:08:29.169073Z",
+    "resolved_at": "2025-03-01T07:31:20Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "45881132175050228840088587439551688504429274016423869356913903425876767646572"
+  },
+  {
+    "market_id": "523417",
+    "question": "Will Germany declare a state of emergency in February?",
+    "category": "other",
+    "created_at": "2025-02-13T23:16:41.408373Z",
+    "resolved_at": "2025-03-01T07:31:20Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "99955327653994578780062290148699643507235133732068605465658937902956112865676"
+  },
+  {
+    "market_id": "520283",
+    "question": "DeepSeek removed from App Store before March?",
+    "category": "other",
+    "created_at": "2025-01-27T14:53:37.788028Z",
+    "resolved_at": "2025-03-01T07:31:20Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "16304215772617610170532007143607044244073457766307645004057318774399348905304"
+  },
+  {
+    "market_id": "521175",
+    "question": "Will Ethereum hit $4500 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T18:08:27.854602Z",
+    "resolved_at": "2025-03-01T07:26:30Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "106191837390171165338792850310568300816798920935540255915248103112024377879750"
+  },
+  {
+    "market_id": "519275",
+    "question": "Will Trump sue AOC before March?",
+    "category": "other",
+    "created_at": "2025-01-20T22:15:53.326716Z",
+    "resolved_at": "2025-03-01T07:26:24Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "84433986617013045851293014751672661738201998986530084052737157670880976826031"
+  },
+  {
+    "market_id": "520993",
+    "question": "Terry Rozier suspended before March?",
+    "category": "other",
+    "created_at": "2025-01-30T18:15:03.953822Z",
+    "resolved_at": "2025-03-01T07:26:14Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "67283936935470200874133945793905156271764960570644210088470837995768718329649"
+  },
+  {
+    "market_id": "518429",
+    "question": "\"Make Greenland Great Again Act\" passes the House before March?",
+    "category": "other",
+    "created_at": "2025-01-13T20:10:40.334952Z",
+    "resolved_at": "2025-03-01T07:26:08Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "112927390565329385202478475224479855485384855534395126021705322795949465414919"
+  },
+  {
+    "market_id": "521248",
+    "question": "Will XRP reach $3.60 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T21:29:59.566561Z",
+    "resolved_at": "2025-03-01T07:26:04Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "76412898280730447988400793307991306484522596835174560469743264259988174622961"
+  },
+  {
+    "market_id": "521178",
+    "question": "Will Ethereum hit $3750 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T18:08:28.832936Z",
+    "resolved_at": "2025-03-01T07:25:58Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "88710033663620789751806783287708569890679631067855886824556164998939689108928"
+  },
+  {
+    "market_id": "521167",
+    "question": "Will Bitcoin dip to $60,000 by February 28, 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T16:51:42.273102Z",
+    "resolved_at": "2025-03-01T07:25:54Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "83316111383946809690644127784627635745770301469065016705040242952085808040405"
+  },
+  {
+    "market_id": "519731",
+    "question": "Will Putin go on Lex Fridman before March?",
+    "category": "other",
+    "created_at": "2025-01-23T00:17:45.210534Z",
+    "resolved_at": "2025-03-01T07:25:48Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "22039398291297033403989633920286411137165965874832006966027971686709395569715"
+  },
+  {
+    "market_id": "521159",
+    "question": "Will Bitcoin reach $120,000 by February 28, 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T16:51:39.731664Z",
+    "resolved_at": "2025-03-01T07:25:44Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "65722666622038710973673648289027870466201892036624563140304139192246128364145"
+  },
+  {
+    "market_id": "521247",
+    "question": "Will XRP reach $3.80 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T21:29:59.364124Z",
+    "resolved_at": "2025-03-01T07:21:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "105647581849008108306684897308659807340638901050032225544345035503906082530696"
+  },
+  {
+    "market_id": "521160",
+    "question": "Will Bitcoin reach $115,000 by February 28, 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T16:51:40.071617Z",
+    "resolved_at": "2025-03-01T07:20:59Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "58308940227728135341598972970333360114864663557209239140545991057955018913004"
+  },
+  {
+    "market_id": "520672",
+    "question": "Megaquake in February?",
+    "category": "other",
+    "created_at": "2025-01-28T19:02:11.218742Z",
+    "resolved_at": "2025-03-01T07:20:55Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "88897940431063851860205908468609382551938627300781198294004491455415128157941"
+  },
+  {
+    "market_id": "521155",
+    "question": "Will Bitcoin reach $200,000 by February 28, 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T16:51:38.512892Z",
+    "resolved_at": "2025-03-01T07:20:49Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "109012568167570763531988622597810096119243402498924303965138996856323115386858"
+  },
+  {
+    "market_id": "521173",
+    "question": "Will Ethereum hit $5000 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T18:08:27.210445Z",
+    "resolved_at": "2025-03-01T07:20:43Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "88693823025321757905359592984081024252536937185300662790515134493753998835991"
+  },
+  {
+    "market_id": "521157",
+    "question": "Will Bitcoin reach $140,000 by February 28, 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T16:51:39.121635Z",
+    "resolved_at": "2025-03-01T07:20:39Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "36987792612976771293190364906838266060526466845432041065484765068465879097507"
+  },
+  {
+    "market_id": "521259",
+    "question": "Will Dogecoin reach $0.45 by February 28 2025?",
+    "category": "other",
+    "created_at": "2025-01-31T22:06:12.338089Z",
+    "resolved_at": "2025-03-01T07:20:33Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "19087348534123485629414351887865522372776235624969088984670983074557057260513"
+  },
+  {
+    "market_id": "521249",
+    "question": "Will XRP reach $3.40 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T21:29:59.765388Z",
+    "resolved_at": "2025-03-01T07:20:31Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "102698503378625755640932015789580796377576887894471446389618497965191987878951"
+  },
+  {
+    "market_id": "521267",
+    "question": "Will Dogecoin dip to $0.10 by February 28 2025?",
+    "category": "other",
+    "created_at": "2025-01-31T22:16:56.366047Z",
+    "resolved_at": "2025-03-01T07:20:23Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "7211240533640345787435853964066386209639089787868347597318371956154583787731"
+  },
+  {
+    "market_id": "521245",
+    "question": "Will XRP reach $4.25 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T21:29:58.857926Z",
+    "resolved_at": "2025-03-01T07:20:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "76133328011190742638811219421654277678320195902165448001441107645029032166315"
+  },
+  {
+    "market_id": "521161",
+    "question": "Will Bitcoin reach $110,000 by February 28, 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T16:51:40.383552Z",
+    "resolved_at": "2025-03-01T07:16:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "74500135454074136715064885530486995983445722288714292304246782362541004861272"
+  },
+  {
+    "market_id": "521244",
+    "question": "Will XRP reach $4.50 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T21:29:58.651119Z",
+    "resolved_at": "2025-03-01T07:16:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "58324498814988909645405991847874161798375400399080483004458919471725900604681"
+  },
+  {
+    "market_id": "521156",
+    "question": "Will Bitcoin reach $150,000 by February 28, 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T16:51:38.810526Z",
+    "resolved_at": "2025-03-01T07:16:15Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "87292874602856396037384573731629721505414101810860965429670439059174576389041"
+  },
+  {
+    "market_id": "521222",
+    "question": "Will Solana hit $275 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T19:29:57.669676Z",
+    "resolved_at": "2025-03-01T07:16:09Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "82886264107691740187459989138432419739429472373102744775895974149708989326700"
+  },
+  {
+    "market_id": "521228",
+    "question": "Will Solana dip to $120 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T19:29:59.055975Z",
+    "resolved_at": "2025-03-01T07:16:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "110594870827476599105112532216823898650614435971157454161819550380048520544040"
+  },
+  {
+    "market_id": "521246",
+    "question": "Will XRP reach $4.00 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T21:29:59.059891Z",
+    "resolved_at": "2025-03-01T07:16:01Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "88964425262251111561086130589188873733263699806241797908553786765464317951957"
+  },
+  {
+    "market_id": "521221",
+    "question": "Will Solana hit $300 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T19:29:57.423834Z",
+    "resolved_at": "2025-03-01T07:15:55Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "21975353413823062239799799141619931814460760426012838379675725780260100230792"
+  },
+  {
+    "market_id": "521158",
+    "question": "Will Bitcoin reach $130,000 by February 28, 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T16:51:39.431012Z",
+    "resolved_at": "2025-03-01T07:15:49Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "68099528435286644977849993463679771859963022618776161351115341171504663221011"
+  },
+  {
+    "market_id": "517422",
+    "question": "Nigel Farage out as Leader of Reform before March?",
+    "category": "other",
+    "created_at": "2025-01-05T14:19:28.895542Z",
+    "resolved_at": "2025-03-01T07:15:45Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "49964984999982606890888866058307517860134116053276886752669304545870471540712"
+  },
+  {
+    "market_id": "515191",
+    "question": "S\u00e1nchez resigns as PM of Spain before March?",
+    "category": "other",
+    "created_at": "2024-12-09T21:51:00.007738Z",
+    "resolved_at": "2025-03-01T07:15:41Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "397352491555504065475814161391715597463290297913252102683557419926136518823"
+  },
+  {
+    "market_id": "521263",
+    "question": "Will Dogecoin reach $0.35 by February 28 2025? 1",
+    "category": "other",
+    "created_at": "2025-01-31T22:10:21.449413Z",
+    "resolved_at": "2025-03-01T07:10:33Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "49045066729331493218659541916137853389341425795145758390119740670312545620239"
+  },
+  {
+    "market_id": "521172",
+    "question": "Will Ethereum hit $6000 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T18:08:26.917869Z",
+    "resolved_at": "2025-03-01T07:10:27Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "56631841179872388081253635083522708102484864312801341247609299643350945271549"
+  },
+  {
+    "market_id": "521257",
+    "question": "Will Dogecoin reach $0.60 by February 28 2025?",
+    "category": "other",
+    "created_at": "2025-01-31T22:06:11.799637Z",
+    "resolved_at": "2025-03-01T07:10:21Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "44585415579386805312131492476982641204885805731051056147396823133684866504589"
+  },
+  {
+    "market_id": "521220",
+    "question": "Will Solana hit $350 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T19:29:57.187178Z",
+    "resolved_at": "2025-03-01T07:10:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "69995941464152095407154180797382629605658847513514819984008305535719193060293"
+  },
+  {
+    "market_id": "521166",
+    "question": "Will Bitcoin dip to $75,000 by February 28, 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T16:51:41.99519Z",
+    "resolved_at": "2025-03-01T07:10:13Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "85118905458287769053489994126772626035871828111952855426890913089381038973168"
+  },
+  {
+    "market_id": "522166",
+    "question": "Conservatives win majority in Ontario election?",
+    "category": "politics",
+    "created_at": "2025-02-07T18:18:05.214342Z",
+    "resolved_at": "2025-03-01T06:39:21Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "12858578818078772482087073457800346832609593957782547596184375730887790288533"
+  },
+  {
+    "market_id": "526208",
+    "question": "Will Volodymyr Zelenskyy say \"Russia\" 5+ times during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:37.256328Z",
+    "resolved_at": "2025-03-01T06:34:45Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "61961114528454368093411375957570321540402456535123036658159710867935882218168"
+  },
+  {
+    "market_id": "518970",
+    "question": "Will Racing Bulls record the fastest lap at 2025 F1 Winter Testing?",
+    "category": "other",
+    "created_at": "2025-01-16T22:42:53.440414Z",
+    "resolved_at": "2025-03-01T05:54:29Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "45267395925858752240860537619531604173908939138869398983292580335539421594972"
+  },
+  {
+    "market_id": "518971",
+    "question": "Will Red Bull Racing record the fastest lap at 2025 F1 Winter Testing?",
+    "category": "other",
+    "created_at": "2025-01-16T22:43:20.848058Z",
+    "resolved_at": "2025-03-01T05:54:23Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "48727227838833312351281825794811646794808335794704715598629988497572794493338"
+  },
+  {
+    "market_id": "519500",
+    "question": "Will Mercedes record the fastest lap at 2025 F1 Winter Testing?",
+    "category": "other",
+    "created_at": "2025-01-21T22:34:32.833244Z",
+    "resolved_at": "2025-03-01T05:54:21Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "86278823055199993780717863925494452771018677386491588635609516515964073483976"
+  },
+  {
+    "market_id": "518968",
+    "question": "Will Kick Sauber record the fastest lap at 2025 F1 Winter Testing?",
+    "category": "other",
+    "created_at": "2025-01-16T22:42:19.752071Z",
+    "resolved_at": "2025-03-01T05:54:09Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "20582748050450255037309293838788895357825332056239347195683834897578842804229"
+  },
+  {
+    "market_id": "518967",
+    "question": "Will Haas record the fastest lap at 2025 F1 Winter Testing?",
+    "category": "other",
+    "created_at": "2025-01-16T22:42:04.263418Z",
+    "resolved_at": "2025-03-01T05:49:09Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "23278552144926815273651407777785790573642300478758937137869611305584450720777"
+  },
+  {
+    "market_id": "518964",
+    "question": "Will Alpine record the fastest lap at 2025 F1 Winter Testing?",
+    "category": "other",
+    "created_at": "2025-01-16T22:35:28.333303Z",
+    "resolved_at": "2025-03-01T05:44:29Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "75278970326858000751638949370140784826190726552512733312244640357497470026731"
+  },
+  {
+    "market_id": "518966",
+    "question": "Will Ferrari record the fastest lap at 2025 F1 Winter Testing?",
+    "category": "other",
+    "created_at": "2025-01-16T22:41:45.398702Z",
+    "resolved_at": "2025-03-01T05:44:23Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "32175578537419704491146139882607569746362181490539400322759754608615454347961"
+  },
+  {
+    "market_id": "519542",
+    "question": "Will Williams record the fastest lap at 2025 F1 Winter Testing?",
+    "category": "other",
+    "created_at": "2025-01-21T23:48:57.688978Z",
+    "resolved_at": "2025-03-01T05:44:19Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "22709832789874611009547183180777112480527968421921987483273361419741604117851"
+  },
+  {
+    "market_id": "518965",
+    "question": "Will Aston Martin record the fastest lap at 2025 F1 Winter Testing?",
+    "category": "other",
+    "created_at": "2025-01-16T22:39:07.672Z",
+    "resolved_at": "2025-03-01T05:44:13Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "59825938409244068114509077434379001769906763858699408241854525891687659206643"
+  },
+  {
+    "market_id": "524534",
+    "question": "Will the New Democrats win the second most seats in the next Ontario Parliamentary election?",
+    "category": "politics",
+    "created_at": "2025-02-21T21:01:55.300853Z",
+    "resolved_at": "2025-03-01T05:34:01Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "102779402181381883083447646753611571994698137703794339055436548444649638598178"
+  },
+  {
+    "market_id": "525968",
+    "question": "Will Donald Trump say \"Ukraine\" 10+ times during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:40:57.312864Z",
+    "resolved_at": "2025-03-01T04:24:14Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "85951603268861743614866362934734589061582594055501055831704881830629046349987"
+  },
+  {
+    "market_id": "525970",
+    "question": "Will Donald Trump say \"Beautiful\" 5+ times during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:40:58.806681Z",
+    "resolved_at": "2025-03-01T04:24:04Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "110712846716748057939685711680958201642296724121821281635368426988083058250041"
+  },
+  {
+    "market_id": "525972",
+    "question": "Will Donald Trump say \"Russia\" 5+ times during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:41:00.350325Z",
+    "resolved_at": "2025-03-01T04:24:00Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "13455669362606411812395340846747510668890694735632958005912011800173601294703"
+  },
+  {
+    "market_id": "526214",
+    "question": "Will Volodymyr Zelenskyy say \"Crimea\" during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:41.898628Z",
+    "resolved_at": "2025-03-01T04:23:54Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "6181444663272107207473034707115822644207165755997549849489452457943666383865"
+  },
+  {
+    "market_id": "526206",
+    "question": "Will Volodymyr Zelenskyy say \"Ceasefire\" 5+ times during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:35.747232Z",
+    "resolved_at": "2025-03-01T04:19:06Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "38422121366162845995463836363115870716674885657399376052218054677799406882802"
+  },
+  {
+    "market_id": "525976",
+    "question": "Will Donald Trump say \"Can you imagine\" during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:41:03.356632Z",
+    "resolved_at": "2025-03-01T04:19:04Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "80175333405357565051891365547122796296901326342981550537167532615099321815060"
+  },
+  {
+    "market_id": "525971",
+    "question": "Will Donald Trump say \"Peace\" 5+ times during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:40:59.617706Z",
+    "resolved_at": "2025-03-01T04:19:04Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "18966851117775591859440881617318694744034080214032839637337644296217633275029"
+  },
+  {
+    "market_id": "526205",
+    "question": "Will Volodymyr Zelenskyy say \"Vance\" during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:35.017005Z",
+    "resolved_at": "2025-03-01T04:19:04Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "88165232264391338438306368989271428301094567730791463786031291031051735861273"
+  },
+  {
+    "market_id": "525973",
+    "question": "Will Donald Trump say \"Putin\" 3+ times during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:41:01.173733Z",
+    "resolved_at": "2025-03-01T04:19:04Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "84320640166359480278635941255523982801020323450889304363065856455518361186040"
+  },
+  {
+    "market_id": "525974",
+    "question": "Will Donald Trump say \"Crimea\" during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:41:01.880555Z",
+    "resolved_at": "2025-03-01T04:14:02Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "64869153091922867165174676400309843631645310203453626731059188989742602382965"
+  },
+  {
+    "market_id": "526222",
+    "question": "Will Volodymyr Zelenskyy say \"Crypto\" or \"Bitcoin\" during his Baier interview?",
+    "category": "crypto",
+    "created_at": "2025-02-28T19:17:47.911726Z",
+    "resolved_at": "2025-03-01T04:13:58Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "89707343894412523837524018737613572559651850649414790306088822931905415304160"
+  },
+  {
+    "market_id": "526219",
+    "question": "Will Volodymyr Zelenskyy say \"Nuclear\" during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:45.651103Z",
+    "resolved_at": "2025-03-01T04:13:52Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "49030844984951560413303998372831464749432930389353931995174361451869323517287"
+  },
+  {
+    "market_id": "525975",
+    "question": "Will Donald Trump say \"Dictator\" during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:41:02.618527Z",
+    "resolved_at": "2025-03-01T04:09:26Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "113666106321925430539629452170777293091380806603434780066831182362287191203236"
+  },
+  {
+    "market_id": "525979",
+    "question": "Will Donald Trump say \"Mineral\" during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:41:05.814463Z",
+    "resolved_at": "2025-03-01T04:09:24Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "3598479342568500852607087300598899886452226084406779990839452562995720852351"
+  },
+  {
+    "market_id": "525969",
+    "question": "Will Donald Trump say \"Horrible\" 5+ times during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:40:58.035748Z",
+    "resolved_at": "2025-03-01T04:09:12Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "29074822925205563483014861880730761235439239543443799241398669263704148308742"
+  },
+  {
+    "market_id": "526202",
+    "question": "Will Volodymyr Zelenskyy say \"Ukraine\" 10+ times during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:32.834404Z",
+    "resolved_at": "2025-03-01T04:04:40Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "27230745600448714614926873607722743339190187584167524554212240676532948546219"
+  },
+  {
+    "market_id": "525967",
+    "question": "Will Donald Trump say \"US\" or \"United States\" 10+ times during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:40:56.584399Z",
+    "resolved_at": "2025-03-01T04:04:30Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "35804285026223976580980833388120671421144033622082269172238349756909177328623"
+  },
+  {
+    "market_id": "525980",
+    "question": "Will Donald Trump say \"Gaza\" during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:41:06.54768Z",
+    "resolved_at": "2025-03-01T04:00:20Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "62450728338034028970127222951920889191237136881240836419425455453534159321307"
+  },
+  {
+    "market_id": "525977",
+    "question": "Will Donald Trump say \"DEI\" during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:41:04.166841Z",
+    "resolved_at": "2025-03-01T03:54:56Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "107452702449996000145594374515725852047613042760247258732505940622962538344166"
+  },
+  {
+    "market_id": "525978",
+    "question": "Will Donald Trump say \"DOGE\" during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:41:04.934453Z",
+    "resolved_at": "2025-03-01T03:50:42Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "31786146084938978973717249602882512883614266009147213149867407385259311763302"
+  },
+  {
+    "market_id": "525982",
+    "question": "Will Donald Trump say \"AI\" or \"Artificial Intelligence\" during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:41:08.047921Z",
+    "resolved_at": "2025-03-01T03:50:42Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "48914613216909865550317369184733960243088162147555102725949961547424934420570"
+  },
+  {
+    "market_id": "525981",
+    "question": "Will Donald Trump say \"Elon\" or \"Musk\" during his presser with Zelenskyy on Feb 28?",
+    "category": "other",
+    "created_at": "2025-02-27T23:41:07.316687Z",
+    "resolved_at": "2025-03-01T03:50:42Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "41709053419644435580583241589806968657874765639442830794748022560068582155653"
+  },
+  {
+    "market_id": "525983",
+    "question": "Will Donald Trump say \"Crypto\" or \"Bitcoin\" during his presser with Zelenskyy on Feb 28?",
+    "category": "crypto",
+    "created_at": "2025-02-27T23:41:08.842397Z",
+    "resolved_at": "2025-03-01T03:40:31Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "96294600375748159792723043068671770354496441195131437680494542776551847276800"
+  },
+  {
+    "market_id": "525287",
+    "question": "Will the highest temperature in London be between 49-50\u00b0F on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:32:27.840997Z",
+    "resolved_at": "2025-03-01T03:38:13Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "41870697663860750791290138833802184054905157715315241533330420224579706176960"
+  },
+  {
+    "market_id": "525288",
+    "question": "Will the highest temperature in London be between 51-52\u00b0F on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:32:28.611808Z",
+    "resolved_at": "2025-03-01T03:38:13Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "47917072426289168507123014054285609364960435047812063245664297115120380177122"
+  },
+  {
+    "market_id": "525292",
+    "question": "Will the highest temperature in London be 55\u00b0F or higher on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:33:57.488767Z",
+    "resolved_at": "2025-03-01T03:38:13Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "111548031057925129633227164663443161779800902906406672377710742412448048473317"
+  },
+  {
+    "market_id": "525286",
+    "question": "Will the highest temperature in London be between 47-48\u00b0F on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:32:27.073889Z",
+    "resolved_at": "2025-03-01T03:38:13Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "28526757221753572328694137025166141586298736153679917795833006595988936905134"
+  },
+  {
+    "market_id": "525290",
+    "question": "Will the highest temperature in London be between 53-54\u00b0F on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:33:12.336753Z",
+    "resolved_at": "2025-03-01T03:38:13Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "33106797549320947430470336923445794829568188813983537459479371240312397131337"
+  },
+  {
+    "market_id": "526207",
+    "question": "Will Volodymyr Zelenskyy say \"War\" 5+ times during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:36.469194Z",
+    "resolved_at": "2025-03-01T03:15:05Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "94960188342346111253340158189789652988409862058661105865945922995205647436927"
+  },
+  {
+    "market_id": "526204",
+    "question": "Will Volodymyr Zelenskyy say \"Putin\" 5+ times during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:34.279616Z",
+    "resolved_at": "2025-03-01T03:15:05Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "74982628000557521348691902394993033323346708853630606236310655236909661297840"
+  },
+  {
+    "market_id": "526211",
+    "question": "Will Volodymyr Zelenskyy say \"Peace\" 2+ times during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:39.438301Z",
+    "resolved_at": "2025-03-01T03:09:29Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "89653845826149008445801790934810542505573211164745280542234323786829340856890"
+  },
+  {
+    "market_id": "526221",
+    "question": "Will Volodymyr Zelenskyy say \"NATO\" during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:47.175362Z",
+    "resolved_at": "2025-03-01T03:09:23Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "103849942514233465068739504632149225518398010124168974353008151358770314249374"
+  },
+  {
+    "market_id": "526203",
+    "question": "Will Volodymyr Zelenskyy say \"Trump\" 10+ times during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:33.550372Z",
+    "resolved_at": "2025-03-01T02:44:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "67151360621814968984224682737583731216525627350182773175459529416048907198508"
+  },
+  {
+    "market_id": "525800",
+    "question": "Will VfB Stuttgart beat Bayern Munich?",
+    "category": "other",
+    "created_at": "2025-02-27T16:29:49.171256Z",
+    "resolved_at": "2025-03-01T02:32:32Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "68080678367404329936055210654069838497310013809309761265014743912091027656958"
+  },
+  {
+    "market_id": "525799",
+    "question": "Will Bayern Munich beat VfB Stuttgart?",
+    "category": "other",
+    "created_at": "2025-02-27T16:29:48.765873Z",
+    "resolved_at": "2025-03-01T02:26:48Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "81721699117298940056889406381735447845666121898395478266404039792562710192458"
+  },
+  {
+    "market_id": "526220",
+    "question": "Will Volodymyr Zelenskyy say \"Sheets\" during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:46.359814Z",
+    "resolved_at": "2025-03-01T02:20:24Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "5994445505679733332816553478416982371571492588208652817188225438195025580804"
+  },
+  {
+    "market_id": "526215",
+    "question": "Will Volodymyr Zelenskyy say \"Donbas\" during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:42.629177Z",
+    "resolved_at": "2025-03-01T02:20:18Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "48492865545471464801823749782909845987589608424571517179739987814383643946940"
+  },
+  {
+    "market_id": "526218",
+    "question": "Will Volodymyr Zelenskyy say \"Germany\" during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:44.915446Z",
+    "resolved_at": "2025-03-01T02:20:14Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "86545796806368623122915072276317368981554213688378858800767922228809365765918"
+  },
+  {
+    "market_id": "526216",
+    "question": "Will Volodymyr Zelenskyy say \"Blackmail\" during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:43.378577Z",
+    "resolved_at": "2025-03-01T02:14:59Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "14819415111196343081999400229032244662636776030610870893329944414667384936841"
+  },
+  {
+    "market_id": "525305",
+    "question": "Will the highest temperature in NYC be between 50-51\u00b0F on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:43:18.164579Z",
+    "resolved_at": "2025-03-01T02:11:35Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "43775064969961834353396406091505241622514795133457502972779105402933530862550"
+  },
+  {
+    "market_id": "526210",
+    "question": "Will Volodymyr Zelenskyy say \"Biden\" 3+ times during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:38.727171Z",
+    "resolved_at": "2025-03-01T02:10:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "115038224797939608184099957974167157184730514452206453800577432835784590146541"
+  },
+  {
+    "market_id": "526209",
+    "question": "Will Volodymyr Zelenskyy say \"US\" or \"United States\" 5+ times during his Baier interview?",
+    "category": "other",
+    "created_at": "2025-02-28T19:17:37.981598Z",
+    "resolved_at": "2025-03-01T01:16:40Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "10428522695126813497841835438270521117637328404698038969455233522766517709281"
+  },
+  {
+    "market_id": "525801",
+    "question": "Will VfB Stuttgart vs. Bayern Munich end in a Draw?",
+    "category": "other",
+    "created_at": "2025-02-27T16:29:49.578666Z",
+    "resolved_at": "2025-03-01T00:37:40Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "89450612592894185446888906380035533654235192363654435727013217442194779093920"
+  },
+  {
+    "market_id": "520332",
+    "question": "Will Microsoft be the largest company in the world by market cap on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:39:44.129753Z",
+    "resolved_at": "2025-03-01T00:08:43Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "39396545899359862710761844734673537881415384786732462095658901552224510708460"
+  },
+  {
+    "market_id": "520331",
+    "question": "Will NVIDIA be the largest company in the world by market cap on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:39:43.849996Z",
+    "resolved_at": "2025-03-01T00:08:35Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "112823648597812956968498698090949195339090469075961672652274125797609717947199"
+  },
+  {
+    "market_id": "520333",
+    "question": "Will Apple be the largest company in the world by market cap on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:39:44.389787Z",
+    "resolved_at": "2025-03-01T00:08:25Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "93055468498191311278939282117379129107963490509770856243165620416334724198476"
+  },
+  {
+    "market_id": "520335",
+    "question": "Will Alphabet be the largest company in the world by market cap on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:39:44.961891Z",
+    "resolved_at": "2025-03-01T00:08:21Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "82022072372589756245038362844999545949991833918503801914572546267828539432312"
+  },
+  {
+    "market_id": "524466",
+    "question": "Will Trump post 160-179 times on Truth Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:17:40.916394Z",
+    "resolved_at": "2025-02-28T22:19:56Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "99289175859467557997951424132136070658401690484775045138986648431497975202381"
+  },
+  {
+    "market_id": "524468",
+    "question": "Will Trump post 200-219 times on Truth Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:17:42.247877Z",
+    "resolved_at": "2025-02-28T22:19:48Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "4865351444450851562436312937498454773169113236173610500756313283161596829336"
+  },
+  {
+    "market_id": "520315",
+    "question": "Will Meta have the top AI model on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:13:30.864226Z",
+    "resolved_at": "2025-02-28T22:19:44Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "56032012835667423951656213209106209705346570074136182580397646287329911387112"
+  },
+  {
+    "market_id": "520318",
+    "question": "Will Alibaba have the top AI model on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:13:32.091903Z",
+    "resolved_at": "2025-02-28T22:19:38Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "100980653847401852941297347584434241564453286545323419121027055994344345578232"
+  },
+  {
+    "market_id": "524459",
+    "question": "Will Elon tweet 800-849 times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:42.946296Z",
+    "resolved_at": "2025-02-28T22:19:34Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "19266860439060632754062206700418909232744863830497152588332397517506701116105"
+  },
+  {
+    "market_id": "524460",
+    "question": "Will Elon tweet 850-899 times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:43.433786Z",
+    "resolved_at": "2025-02-28T22:19:28Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "109521087298346403754309434268478023828109442217473868783024577285516815206593"
+  },
+  {
+    "market_id": "524467",
+    "question": "Will Trump post 180-199 times on Truth Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:17:41.453886Z",
+    "resolved_at": "2025-02-28T22:19:24Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "33493176527846458191186010230891259100361989193901551365252928604124997241316"
+  },
+  {
+    "market_id": "524465",
+    "question": "Will Trump post 140-159 times on Truth Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:17:40.468681Z",
+    "resolved_at": "2025-02-28T22:15:09Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "98312831166270107534675007113411765704984972325202982533962132672061497251982"
+  },
+  {
+    "market_id": "524376",
+    "question": "Will Kanye tweet 200-399 times February 20-28?",
+    "category": "other",
+    "created_at": "2025-02-20T23:29:26.944907Z",
+    "resolved_at": "2025-02-28T22:15:03Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "92364944724330494310928187854566147268183564747264913231974994153371714470643"
+  },
+  {
+    "market_id": "524469",
+    "question": "Will Trump post 220-239 times on Truth Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:17:42.67253Z",
+    "resolved_at": "2025-02-28T22:14:59Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "57262619345105629923593327192558460754502205356828661914776491647035576286495"
+  },
+  {
+    "market_id": "524458",
+    "question": "Will Elon tweet 750-799 times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:42.571881Z",
+    "resolved_at": "2025-02-28T22:14:53Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "58494453304612792945220566611297412228352906548572552452651958297514516574537"
+  },
+  {
+    "market_id": "524377",
+    "question": "Will Kanye tweet 400 or more times February 20-28?",
+    "category": "other",
+    "created_at": "2025-02-20T23:29:27.363084Z",
+    "resolved_at": "2025-02-28T22:14:49Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "70783074226017553294852637947391022687353511353868078135234753779866302529123"
+  },
+  {
+    "market_id": "524470",
+    "question": "Will Trump post 240 or more times on Truth Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:17:43.164096Z",
+    "resolved_at": "2025-02-28T22:14:47Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "52211442004403688173298648331588880349157400862485938640835171693405767882566"
+  },
+  {
+    "market_id": "524461",
+    "question": "Will Elon tweet 900 or more times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:43.808535Z",
+    "resolved_at": "2025-02-28T22:14:39Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "21355004506594481776890915488216530585013465283124694061682933463334535174674"
+  },
+  {
+    "market_id": "525304",
+    "question": "Will the highest temperature in NYC be between 48-49\u00b0F on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:43:17.423833Z",
+    "resolved_at": "2025-02-28T21:29:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "6730745005000344741764818478495635121165545790539196436938222295081192415848"
+  },
+  {
+    "market_id": "525303",
+    "question": "Will the highest temperature in NYC be between 46-47\u00b0F on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:43:16.511328Z",
+    "resolved_at": "2025-02-28T21:24:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "33345029334817652372882125059176743679164843231927745919137765669090117652687"
+  },
+  {
+    "market_id": "525302",
+    "question": "Will the highest temperature in NYC be between 44-45\u00b0F on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:43:15.765763Z",
+    "resolved_at": "2025-02-28T21:14:13Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "30286857785419668114424323209850912272292569405369497140892860763247778595980"
+  },
+  {
+    "market_id": "525226",
+    "question": "Will Trump meet with Zelenskyy by Friday?",
+    "category": "other",
+    "created_at": "2025-02-25T21:27:14.657141Z",
+    "resolved_at": "2025-02-28T20:35:38Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "66675344622646370416688935630958548673511294310616557144848269160318813408530"
+  },
+  {
+    "market_id": "524463",
+    "question": "Will Trump post 100-119 times on Truth Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:17:39.376817Z",
+    "resolved_at": "2025-02-28T20:29:34Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "112796936603508831968752952843110801340095862308670083743668298858217663348667"
+  },
+  {
+    "market_id": "524464",
+    "question": "Will Trump post 120-139 times on Truth Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:17:39.977291Z",
+    "resolved_at": "2025-02-28T20:29:34Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "107696596805733601278776898389008324538493638205563626548143688294056949642437"
+  },
+  {
+    "market_id": "524438",
+    "question": "Will the price of Bitcoin be between $97000 and $99000 on Feb 28?",
+    "category": "crypto",
+    "created_at": "2025-02-21T15:51:12.996022Z",
+    "resolved_at": "2025-02-28T20:29:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "24858494285191165057808557795424406047008652434701067119148563221279663125114"
+  },
+  {
+    "market_id": "524436",
+    "question": "Will the price of Bitcoin be between $93000 and $95000 on Feb 28?",
+    "category": "crypto",
+    "created_at": "2025-02-21T15:51:11.409461Z",
+    "resolved_at": "2025-02-28T20:24:37Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "41617011409283188984196656879895307840357289646694359530548373937734634171388"
+  },
+  {
+    "market_id": "524437",
+    "question": "Will the price of Bitcoin be between $95000 and $97000 on Feb 28?",
+    "category": "crypto",
+    "created_at": "2025-02-21T15:51:12.187754Z",
+    "resolved_at": "2025-02-28T20:24:31Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "73619207878167980397629768380068851966892046079506449419766075157018690760174"
+  },
+  {
+    "market_id": "524439",
+    "question": "Will the price of Bitcoin be between $99000 and $101000 on Feb 28?",
+    "category": "crypto",
+    "created_at": "2025-02-21T15:51:13.738743Z",
+    "resolved_at": "2025-02-28T20:24:27Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "34741796139887640146486714977879882364649388125399565236962566301052983905798"
+  },
+  {
+    "market_id": "524440",
+    "question": "Will the price of Bitcoin be between $101000 and $103000 on Feb 28?",
+    "category": "crypto",
+    "created_at": "2025-02-21T15:51:14.535837Z",
+    "resolved_at": "2025-02-28T20:24:21Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "84991754460340841596969918625674133328379669627927444497324723878289147117977"
+  },
+  {
+    "market_id": "520314",
+    "question": "Will Anthropic have the top AI model on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:13:30.319117Z",
+    "resolved_at": "2025-02-28T20:24:17Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "28929550849295237063876132629403974332307065938945221078583010434233006802132"
+  },
+  {
+    "market_id": "520312",
+    "question": "Will OpenAI have the top AI model on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:13:29.47272Z",
+    "resolved_at": "2025-02-28T20:24:13Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "11102504890531343934034934118230739938967971664917301061360632733714970619555"
+  },
+  {
+    "market_id": "524441",
+    "question": "Will the price of Bitcoin be greater than $103000 on Feb 28?",
+    "category": "crypto",
+    "created_at": "2025-02-21T15:51:15.387716Z",
+    "resolved_at": "2025-02-28T20:24:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "39506351099829189333325395481504737864443932047636088989860001150150461058881"
+  },
+  {
+    "market_id": "520311",
+    "question": "Will DeepSeek have the top AI model on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:13:28.94019Z",
+    "resolved_at": "2025-02-28T20:19:43Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "25401293624474816228085606519106778578937923135897555191947467214857546105181"
+  },
+  {
+    "market_id": "524375",
+    "question": "Will Kanye tweet 100-199 times February 20-28?",
+    "category": "other",
+    "created_at": "2025-02-20T23:29:26.425366Z",
+    "resolved_at": "2025-02-28T20:19:29Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "24850337497519058393865707695833827791913598192559701188013767735557810593727"
+  },
+  {
+    "market_id": "524435",
+    "question": "Will the price of Bitcoin be less than $93000 on Feb 28?",
+    "category": "crypto",
+    "created_at": "2025-02-21T15:51:10.410704Z",
+    "resolved_at": "2025-02-28T20:19:27Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "32649956474463512426986848203967758545770975089155821789789570667277460434886"
+  },
+  {
+    "market_id": "520310",
+    "question": "Will Google have the top AI model on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:13:28.539784Z",
+    "resolved_at": "2025-02-28T20:19:15Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "65744772389718524187152387088675733835100664549794447695261250402240814544733"
+  },
+  {
+    "market_id": "520316",
+    "question": "Will xAI have the top AI model on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:13:31.272164Z",
+    "resolved_at": "2025-02-28T20:14:38Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "20175970759433821429181202213745232757240926395310413643530002690756525225889"
+  },
+  {
+    "market_id": "520317",
+    "question": "Will StepFun have the top AI model on February 28?",
+    "category": "other",
+    "created_at": "2025-01-27T16:13:31.674777Z",
+    "resolved_at": "2025-02-28T20:14:32Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "39537289546108274520759875668374426118294664612561301930981194379911692280635"
+  },
+  {
+    "market_id": "524433",
+    "question": "Solana above $175 on February 28?",
+    "category": "crypto",
+    "created_at": "2025-02-21T15:30:00.692324Z",
+    "resolved_at": "2025-02-28T19:17:47Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "53027634666688728447973688603698502066234965738761017046437254012503811387119"
+  },
+  {
+    "market_id": "524430",
+    "question": "Bitcoin above $99,000 on February 28?",
+    "category": "crypto",
+    "created_at": "2025-02-21T15:23:14.639205Z",
+    "resolved_at": "2025-02-28T19:17:39Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "113209186231356386093741229824124491972558989833634833118910113777299918086413"
+  },
+  {
+    "market_id": "524434",
+    "question": "Dogecoin above $0.26 on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T15:31:32.959026Z",
+    "resolved_at": "2025-02-28T19:17:29Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "110711828140330413518541888988375237785603915617336199576781929081207670533045"
+  },
+  {
+    "market_id": "524431",
+    "question": "Ethereum above $2,800 on February 28?",
+    "category": "crypto",
+    "created_at": "2025-02-21T15:24:41.64324Z",
+    "resolved_at": "2025-02-28T19:13:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "104531995863563781965920510922206241456595964989859443622659595929629960885883"
+  },
+  {
+    "market_id": "524432",
+    "question": "Ripple above $2.70 on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T15:25:40.642872Z",
+    "resolved_at": "2025-02-28T19:13:09Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "71104539333326219121202452311307674457618894008097953022078790389531814512719"
+  },
+  {
+    "market_id": "524539",
+    "question": "Will Grok still be #1 Free app next Friday?",
+    "category": "other",
+    "created_at": "2025-02-21T21:37:16.175897Z",
+    "resolved_at": "2025-02-28T19:08:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "36082083465146568722792146193770648261927550580032859857297527330338958926742"
+  },
+  {
+    "market_id": "525285",
+    "question": "Will the highest temperature in London be between 45-46\u00b0F on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:32:26.301905Z",
+    "resolved_at": "2025-02-28T18:26:34Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "109987336015743178810835774754924834395255226891900329020333775552313919896074"
+  },
+  {
+    "market_id": "525284",
+    "question": "Will the highest temperature in London be 44\u00b0F or below on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:32:25.504799Z",
+    "resolved_at": "2025-02-28T15:49:15Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "68708254959978288538825888765657601513988241817037151867475084087591458791733"
+  },
+  {
+    "market_id": "524479",
+    "question": "Will the price of gas be 3.15 on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T18:32:52.379108Z",
+    "resolved_at": "2025-02-28T15:19:01Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "73763629487138975941838607494107461914969548670052956714698215684407320861536"
+  },
+  {
+    "market_id": "523151",
+    "question": "Will GPT-4.5 be released by February 28?",
+    "category": "other",
+    "created_at": "2025-02-12T19:44:41.737319Z",
+    "resolved_at": "2025-02-28T15:18:57Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "65534944610580039244845858167666197083670492339614594809874534006170562222193"
+  },
+  {
+    "market_id": "524481",
+    "question": "Will the price of gas be 3.17 on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T18:32:53.832995Z",
+    "resolved_at": "2025-02-28T15:18:53Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "679641631701065558846323837410236608964880756447154092223095697592268793168"
+  },
+  {
+    "market_id": "524480",
+    "question": "Will the price of gas be 3.16 on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T18:32:53.094168Z",
+    "resolved_at": "2025-02-28T15:18:47Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "2423375916331162611215481968115957456347223635672336228667063889376215782719"
+  },
+  {
+    "market_id": "524482",
+    "question": "Will the price of gas be 3.18 or higher on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T18:32:54.561202Z",
+    "resolved_at": "2025-02-28T15:18:41Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "47783279923558489014172970656251574863074118835838023536438688216067090526918"
+  },
+  {
+    "market_id": "524478",
+    "question": "Will the price of gas be 3.14 or less on February 28?",
+    "category": "other",
+    "created_at": "2025-02-21T18:32:51.665908Z",
+    "resolved_at": "2025-02-28T15:13:47Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "102384839021605077535912910299273891224810792078694872998441065662603046810981"
+  },
+  {
+    "market_id": "521476",
+    "question": "Will average US gas price hit $3.50 in February?",
+    "category": "other",
+    "created_at": "2025-02-02T21:00:28.977735Z",
+    "resolved_at": "2025-02-28T14:18:39Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "72403334328707260307542391745704507420925640111341813322901722606338655419445"
+  },
+  {
+    "market_id": "521475",
+    "question": "Will average US gas price hit $4 in February?",
+    "category": "other",
+    "created_at": "2025-02-02T20:57:51.306516Z",
+    "resolved_at": "2025-02-28T14:18:35Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "41731376173575149149360694115332823708260059712330485698153815468861693769896"
+  },
+  {
+    "market_id": "524457",
+    "question": "Will Elon tweet 700-749 times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:42.165293Z",
+    "resolved_at": "2025-02-28T14:18:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "86281881897784329302218079333942934469945892467352156741958257780435635918157"
+  },
+  {
+    "market_id": "524959",
+    "question": "Will the highest temperature in NYC be between 55-56\u00b0F on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T16:02:15.415234Z",
+    "resolved_at": "2025-02-28T09:17:34Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "39118881346948791458109503864856001306335585027761719198429156954014547895937"
+  },
+  {
+    "market_id": "524960",
+    "question": "Will the highest temperature in NYC be between 57-58\u00b0F on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T16:02:16.206304Z",
+    "resolved_at": "2025-02-28T09:17:30Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "17653451225455521502742281367512374779193061949199514955545487577578467738952"
+  },
+  {
+    "market_id": "524961",
+    "question": "Will the highest temperature in NYC be 59\u00b0F or higher on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T16:02:17.129063Z",
+    "resolved_at": "2025-02-28T09:17:24Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "39192874167182418937242332166703229108435654995349362532017551808181086668531"
+  },
+  {
+    "market_id": "525301",
+    "question": "Will the highest temperature in NYC be 43\u00b0F or below on February 28?",
+    "category": "other",
+    "created_at": "2025-02-26T16:43:14.82935Z",
+    "resolved_at": "2025-02-28T09:17:20Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "26302164401741600712942785172174835602145359403093047947025960269943512253563"
+  },
+  {
+    "market_id": "525850",
+    "question": "Epstein phonebook only document released today?",
+    "category": "other",
+    "created_at": "2025-02-27T19:20:26.478501Z",
+    "resolved_at": "2025-02-28T07:13:34Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "110761108107564305080907891355662294193551702002018190137496227451128687053996"
+  },
+  {
+    "market_id": "525383",
+    "question": "Will Bitcoin hit $90,000 by Thursday?",
+    "category": "crypto",
+    "created_at": "2025-02-26T18:28:55.229919Z",
+    "resolved_at": "2025-02-28T07:13:28Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "81817574901712814805421849450757793247855890062475234291329225003816294709844"
+  },
+  {
+    "market_id": "525384",
+    "question": "Will Ethereum hit $2500 by Thursday?",
+    "category": "crypto",
+    "created_at": "2025-02-26T18:31:23.205378Z",
+    "resolved_at": "2025-02-28T07:13:24Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "10468436093688779756354100550184857326092226575965441745155907586455429453912"
+  },
+  {
+    "market_id": "525862",
+    "question": "Trump releases Epstein list by Friday?",
+    "category": "other",
+    "created_at": "2025-02-27T21:06:34.463595Z",
+    "resolved_at": "2025-02-28T05:29:16Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "70500831618833389026158295524205908665460766152761918838494956937625613713190"
+  },
+  {
+    "market_id": "524946",
+    "question": "Will the highest temperature in London be between 53-54\u00b0F on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:22.872299Z",
+    "resolved_at": "2025-02-28T05:08:44Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "72457837961416287774179756957087177097626370908507309426617005762002578984025"
+  },
+  {
+    "market_id": "524947",
+    "question": "Will the highest temperature in London be 55\u00b0F or higher on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:23.659467Z",
+    "resolved_at": "2025-02-28T05:08:40Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "39707479855771222999297007496953962174826670142432225508709395792230126510958"
+  },
+  {
+    "market_id": "524945",
+    "question": "Will the highest temperature in London be between 51-52\u00b0F on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:22.130871Z",
+    "resolved_at": "2025-02-28T05:08:34Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "73032629910251083922048694392727540453962353401738416530100975319312979007332"
+  },
+  {
+    "market_id": "524944",
+    "question": "Will the highest temperature in London be between 49-50\u00b0F on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:21.299041Z",
+    "resolved_at": "2025-02-28T03:40:46Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "38303920556085181181822559832459786240457378960052017232670778709381182556934"
+  },
+  {
+    "market_id": "524958",
+    "question": "Will the highest temperature in NYC be between 53-54\u00b0F on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T16:02:14.670206Z",
+    "resolved_at": "2025-02-28T03:11:28Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "39024687233606373073290646621313014256660106083830552273308688961180523161512"
+  },
+  {
+    "market_id": "525343",
+    "question": "Will Donald Trump say Pay 5+ times during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:44.105001Z",
+    "resolved_at": "2025-02-28T03:11:22Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "55736972361772063837559609948764955749876979670485213705674602530380334063034"
+  },
+  {
+    "market_id": "523435",
+    "question": "Will West Ham win on 2025-02-27?",
+    "category": "other",
+    "created_at": "2025-02-14T05:00:54.454192Z",
+    "resolved_at": "2025-02-28T03:01:22Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "83492621996927531680552295215162667969894143077955016514738384489720264815342"
+  },
+  {
+    "market_id": "523436",
+    "question": "Will West Ham vs. Leicester end in a draw?",
+    "category": "other",
+    "created_at": "2025-02-14T05:01:20.1137Z",
+    "resolved_at": "2025-02-28T03:01:18Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "34800235910126317995521630721752543175837222512330316308281666315165164182425"
+  },
+  {
+    "market_id": "523437",
+    "question": "Will Leicester win on 2025-02-27?",
+    "category": "other",
+    "created_at": "2025-02-14T05:01:44.317393Z",
+    "resolved_at": "2025-02-28T03:01:12Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "57947484150891052649073988278637143481311417034897870666222471390423863251292"
+  },
+  {
+    "market_id": "525336",
+    "question": "Will Donald Trump say UK or United Kingdom 15+ times during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:38.48595Z",
+    "resolved_at": "2025-02-28T01:26:12Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "20476533767743731213947132178261530875690741714454086680538093302767287597936"
+  },
+  {
+    "market_id": "525347",
+    "question": "Will Donald Trump say Climate during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:47.096969Z",
+    "resolved_at": "2025-02-28T01:15:42Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "97223600587746552957175026962542950383598005522507088646228815400702863732003"
+  },
+  {
+    "market_id": "525350",
+    "question": "Will Donald Trump say AI or Artificial Intelligence during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:49.395712Z",
+    "resolved_at": "2025-02-28T01:11:28Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "15047918488314767226188316311310402458107654365660502450826283040026874679288"
+  },
+  {
+    "market_id": "525355",
+    "question": "Will Donald Trump say Pond during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:53.134232Z",
+    "resolved_at": "2025-02-28T01:11:24Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "41456201620230764749667545850169864884478750335460674780028267268462833439055"
+  },
+  {
+    "market_id": "525352",
+    "question": "Will Donald Trump say Elon during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:50.884038Z",
+    "resolved_at": "2025-02-28T01:11:18Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "30061143183751050487116707879669018454019885463954659346705519348789856506993"
+  },
+  {
+    "market_id": "525357",
+    "question": "Will Donald Trump say Drone during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:54.590646Z",
+    "resolved_at": "2025-02-28T01:11:12Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "92329233332909344144289151436077832997468154699020252698568250907967960484104"
+  },
+  {
+    "market_id": "525354",
+    "question": "Will Donald Trump say Egg during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:52.364563Z",
+    "resolved_at": "2025-02-28T01:11:06Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "110962377449891998518583857542006516636038263696171718093054928565002867006706"
+  },
+  {
+    "market_id": "525356",
+    "question": "Will Donald Trump say Gold during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:53.874482Z",
+    "resolved_at": "2025-02-28T01:05:42Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "13828603975030466981291003781104870746620909221307787865966746624065777106646"
+  },
+  {
+    "market_id": "525342",
+    "question": "Will Donald Trump say Beautiful 5+ times during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:43.288343Z",
+    "resolved_at": "2025-02-28T01:00:54Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "83192157261222718885683858833067883145762134208907195793329098303742144747339"
+  },
+  {
+    "market_id": "525344",
+    "question": "Will Donald Trump say Putin 3+ times during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:44.827833Z",
+    "resolved_at": "2025-02-28T01:00:46Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "25203060642675963302855332361229211575622886157216072718820857642015976933249"
+  },
+  {
+    "market_id": "525345",
+    "question": "Will Donald Trump say Zelensky 3+ times during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:45.591369Z",
+    "resolved_at": "2025-02-28T01:00:42Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "89643924808372497685312333677401485694416032349304599215470498393608241176018"
+  },
+  {
+    "market_id": "525351",
+    "question": "Will Donald Trump say Crypto or Bitcoin during his presser with Starmer on Feb 27?",
+    "category": "crypto",
+    "created_at": "2025-02-26T18:10:50.128974Z",
+    "resolved_at": "2025-02-28T00:55:44Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "3563895581190714863262847580121141441779131850369364549781180074619801085722"
+  },
+  {
+    "market_id": "525346",
+    "question": "Will Donald Trump say NATO 3+ times during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:46.342284Z",
+    "resolved_at": "2025-02-28T00:55:38Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "24698727777810512293609492982442922076707954657132037218073195638042060610579"
+  },
+  {
+    "market_id": "525349",
+    "question": "Will Donald Trump say Gaza during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:48.669305Z",
+    "resolved_at": "2025-02-28T00:50:40Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "106147114443809821133855863336098862321905951682024862562636159023061641424767"
+  },
+  {
+    "market_id": "525339",
+    "question": "Will Donald Trump say Ukraine 10+ times during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:40.817584Z",
+    "resolved_at": "2025-02-28T00:50:36Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "63146401146641915378105158594918821901512531320756079374500467695016240555728"
+  },
+  {
+    "market_id": "525340",
+    "question": "Will Donald Trump say Tariff 5+ times during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:41.60982Z",
+    "resolved_at": "2025-02-28T00:40:48Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "25006975262870820415740149778766627071536088378418927959567851592870372212611"
+  },
+  {
+    "market_id": "525353",
+    "question": "Will Donald Trump say Mineral during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:51.631822Z",
+    "resolved_at": "2025-02-28T00:25:46Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "81759015395252959638643766516613415009968242646646406749981344227937788456391"
+  },
+  {
+    "market_id": "525348",
+    "question": "Will Donald Trump say Germany during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:47.840501Z",
+    "resolved_at": "2025-02-28T00:15:42Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "21050150354114140689996577172244455531222647622878904087645445437636622765322"
+  },
+  {
+    "market_id": "525337",
+    "question": "Will Donald Trump say US or United States 15+ times during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:39.21591Z",
+    "resolved_at": "2025-02-27T23:21:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "112638008898128836356395048107681745816608117393352780047556178747685116476676"
+  },
+  {
+    "market_id": "525341",
+    "question": "Will Donald Trump say Hell 5+ times during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:42.422122Z",
+    "resolved_at": "2025-02-27T23:21:01Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "99095442698230076464442606732519183265357252424237666961129668289661459550185"
+  },
+  {
+    "market_id": "525780",
+    "question": "Centel back by Friday?",
+    "category": "other",
+    "created_at": "2025-02-27T15:44:35.206727Z",
+    "resolved_at": "2025-02-27T23:20:57Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "21369311514174771135535863173466322201870004997404858263272879983709743148733"
+  },
+  {
+    "market_id": "525338",
+    "question": "Will Donald Trump say Million 15+ times during his presser with Starmer on Feb 27?",
+    "category": "other",
+    "created_at": "2025-02-26T18:10:39.970074Z",
+    "resolved_at": "2025-02-27T23:20:51Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "84303554366300168884212134067738706060877442458595441465333487701801496262130"
+  },
+  {
+    "market_id": "524957",
+    "question": "Will the highest temperature in NYC be between 51-52\u00b0F on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T16:02:13.922359Z",
+    "resolved_at": "2025-02-27T22:44:28Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "81002344916762578714245238589229742825812856168806267376211215066536624664730"
+  },
+  {
+    "market_id": "525275",
+    "question": "Mary Kate Cornett statement by Friday?",
+    "category": "other",
+    "created_at": "2025-02-26T15:08:28.637364Z",
+    "resolved_at": "2025-02-27T22:34:44Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "76210216417213024836157444194748163617340264247026864822298115757767026065599"
+  },
+  {
+    "market_id": "524956",
+    "question": "Will the highest temperature in NYC be between 49-50\u00b0F on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T16:02:13.180398Z",
+    "resolved_at": "2025-02-27T21:34:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "22243366693194565328383115687063837008882937155491127382036581520130599012756"
+  },
+  {
+    "market_id": "524955",
+    "question": "Will the highest temperature in NYC be 48\u00b0F or below on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T16:02:12.44935Z",
+    "resolved_at": "2025-02-27T21:29:11Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "31014724464496377771848379917096659449791771909753586576299439058965614002039"
+  },
+  {
+    "market_id": "525193",
+    "question": "Will Kanye tweet again by Friday?",
+    "category": "other",
+    "created_at": "2025-02-25T18:30:28.626931Z",
+    "resolved_at": "2025-02-27T21:09:05Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "93651751265893057994884351472186657572581139008616757723496189864665985373402"
+  },
+  {
+    "market_id": "524943",
+    "question": "Will the highest temperature in London be between 47-48\u00b0F on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:20.487783Z",
+    "resolved_at": "2025-02-27T20:40:38Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "40263157481161852013795064904652412676936051568908959219497771283779127128802"
+  },
+  {
+    "market_id": "524456",
+    "question": "Will Elon tweet 650-699 times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:41.782411Z",
+    "resolved_at": "2025-02-27T20:35:38Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "53494501436066586634490983046211794372221904338123355138163169732236650791684"
+  },
+  {
+    "market_id": "524942",
+    "question": "Will the highest temperature in London be between 45-46\u00b0F on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:19.65686Z",
+    "resolved_at": "2025-02-27T19:10:01Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "30734289350786082357195914145473028362677896020383200789823254811010651957514"
+  },
+  {
+    "market_id": "524941",
+    "question": "Will the highest temperature in London be 44\u00b0F or below on February 27?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:18.923624Z",
+    "resolved_at": "2025-02-27T15:44:09Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "15683138271336083318887521613498773927392258847201968244620714342471019769731"
+  },
+  {
+    "market_id": "524954",
+    "question": "Will the highest temperature in NYC be 58\u00b0F or higher on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T16:01:52.005082Z",
+    "resolved_at": "2025-02-27T09:05:57Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "114382829520965714580915268535840170712529314843202631013126592279857760392834"
+  },
+  {
+    "market_id": "524953",
+    "question": "Will the highest temperature in NYC be between 56-57\u00b0F on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T16:01:51.213517Z",
+    "resolved_at": "2025-02-27T09:05:53Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "84089779275921804232904389069827972235306515174686108642274804562143229640778"
+  },
+  {
+    "market_id": "525184",
+    "question": "Will Bitcoin hit $90,000 by Wednesday?",
+    "category": "crypto",
+    "created_at": "2025-02-25T16:27:35.633081Z",
+    "resolved_at": "2025-02-27T07:09:33Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "23527361710888139000121359593003913554380722624357058199542081990605668609734"
+  },
+  {
+    "market_id": "525204",
+    "question": "Will Ethereum hit $2700 by Wednesday?",
+    "category": "crypto",
+    "created_at": "2025-02-25T20:03:09.561786Z",
+    "resolved_at": "2025-02-27T07:09:25Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "78636560812588275809663561921814150675100385408101248833913953066343092654747"
+  },
+  {
+    "market_id": "524938",
+    "question": "Will the highest temperature in London be between 49-50\u00b0F on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:05.106432Z",
+    "resolved_at": "2025-02-27T05:33:31Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "55942800238600393448806811541923609259911402037620166257138221695518535259915"
+  },
+  {
+    "market_id": "524940",
+    "question": "Will the highest temperature in London be 53\u00b0F or higher on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:06.670255Z",
+    "resolved_at": "2025-02-27T05:33:27Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "30834883679566807748958805517535545571453381237442068699623378552423478326549"
+  },
+  {
+    "market_id": "524939",
+    "question": "Will the highest temperature in London be between 51-52\u00b0F on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:05.93168Z",
+    "resolved_at": "2025-02-27T05:33:23Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "66332444641320921817455884007319023581864937058152332834345737903335498805071"
+  },
+  {
+    "market_id": "524937",
+    "question": "Will the highest temperature in London be between 47-48\u00b0F on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:04.367179Z",
+    "resolved_at": "2025-02-27T05:33:17Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "72389438524699665932165067790928985204940717885389874698930352076855752924688"
+  },
+  {
+    "market_id": "524455",
+    "question": "Will Elon tweet 600-649 times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:41.395965Z",
+    "resolved_at": "2025-02-27T05:23:21Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "8020570460331589235696992808329304608720340871330904595018942849259547910633"
+  },
+  {
+    "market_id": "523260",
+    "question": "Will Newcastle win on 2025-02-26?",
+    "category": "other",
+    "created_at": "2025-02-13T05:08:36.082554Z",
+    "resolved_at": "2025-02-27T03:13:23Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "59457305309730440852908705419628525747852241144647796618132279174226805121903"
+  },
+  {
+    "market_id": "523258",
+    "question": "Will Liverpool win on 2025-02-26?",
+    "category": "other",
+    "created_at": "2025-02-13T05:07:48.265813Z",
+    "resolved_at": "2025-02-27T03:13:19Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "72358138011958940340127129029208860915093784275509911025405427335566392974947"
+  },
+  {
+    "market_id": "523259",
+    "question": "Will Liverpool vs. Newcastle end in a draw?",
+    "category": "other",
+    "created_at": "2025-02-13T05:08:12.130024Z",
+    "resolved_at": "2025-02-27T03:13:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "38187730289479507428193741592365321973801515426262237122813647884686773399440"
+  },
+  {
+    "market_id": "523256",
+    "question": "Will Manchester United vs. Ipswich end in a draw?",
+    "category": "other",
+    "created_at": "2025-02-13T05:06:29.923573Z",
+    "resolved_at": "2025-02-27T02:32:22Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "109369380071064436823088987881836932619995110319420677781140086287264890949792"
+  },
+  {
+    "market_id": "523257",
+    "question": "Will Ipswich win on 2025-02-26?",
+    "category": "other",
+    "created_at": "2025-02-13T05:07:14.218881Z",
+    "resolved_at": "2025-02-27T02:32:16Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "89352395848347240644955737999867097164582877954396775809336966750266204862382"
+  },
+  {
+    "market_id": "523255",
+    "question": "Will Manchester United win on 2025-02-26?",
+    "category": "other",
+    "created_at": "2025-02-13T05:06:06.238246Z",
+    "resolved_at": "2025-02-27T02:32:12Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "9876543080009218325844530542590766921457578871725228302613451932981012024598"
+  },
+  {
+    "market_id": "523247",
+    "question": "Will Brentford vs. Everton end in a draw?",
+    "category": "other",
+    "created_at": "2025-02-13T05:01:59.091243Z",
+    "resolved_at": "2025-02-27T02:27:38Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "71159182486411457589837191730311029617330401635277195297321051889274979984071"
+  },
+  {
+    "market_id": "523246",
+    "question": "Will Brentford win on 2025-02-26?",
+    "category": "other",
+    "created_at": "2025-02-13T05:01:04.971836Z",
+    "resolved_at": "2025-02-27T02:27:34Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "31180244845102896520498626168576579433589976027883521254822285599651285721417"
+  },
+  {
+    "market_id": "523248",
+    "question": "Will Everton win on 2025-02-26?",
+    "category": "other",
+    "created_at": "2025-02-13T05:02:46.206283Z",
+    "resolved_at": "2025-02-27T02:27:28Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "73790574151281803843387579318580531495611014393683329121602312859213344901602"
+  },
+  {
+    "market_id": "523251",
+    "question": "Will Manchester City win on 2025-02-26?",
+    "category": "other",
+    "created_at": "2025-02-13T05:04:04.149053Z",
+    "resolved_at": "2025-02-27T02:23:08Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "44444653408110368255765125978251745652095274655615744775190303371298022431589"
+  },
+  {
+    "market_id": "523249",
+    "question": "Will Tottenham win on 2025-02-26?",
+    "category": "other",
+    "created_at": "2025-02-13T05:03:20.568001Z",
+    "resolved_at": "2025-02-27T02:23:04Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "68920991702683307605694340673847872098204238580566424034633263009347628989933"
+  },
+  {
+    "market_id": "523253",
+    "question": "Will Nottingham Forest vs. Arsenal end in a draw?",
+    "category": "other",
+    "created_at": "2025-02-13T05:05:14.134565Z",
+    "resolved_at": "2025-02-27T02:22:54Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "94166441291870692800153693834159730993316769395573480996322745513399577262691"
+  },
+  {
+    "market_id": "523250",
+    "question": "Will Tottenham vs. Manchester City end in a draw?",
+    "category": "other",
+    "created_at": "2025-02-13T05:03:42.227383Z",
+    "resolved_at": "2025-02-27T02:22:48Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "104001882521731657169892451187598067506444307453339471557559066622994190609336"
+  },
+  {
+    "market_id": "523252",
+    "question": "Will Nottingham Forest win on 2025-02-26?",
+    "category": "other",
+    "created_at": "2025-02-13T05:04:38.374497Z",
+    "resolved_at": "2025-02-27T02:22:42Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "52788988923846022237100964859603731063138393797398519262497086144755462991675"
+  },
+  {
+    "market_id": "524985",
+    "question": "Will Trump issue an executive order on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T16:42:10.396341Z",
+    "resolved_at": "2025-02-27T02:19:32Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "78157523355181515799359478207576206377152817902196737276706967073727471773658"
+  },
+  {
+    "market_id": "523254",
+    "question": "Will Arsenal win on 2025-02-26?",
+    "category": "other",
+    "created_at": "2025-02-13T05:05:34.095216Z",
+    "resolved_at": "2025-02-27T02:17:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "99716983495434827006475162260520761267855536566396953466877913646350576084355"
+  },
+  {
+    "market_id": "525468",
+    "question": "Will Nvidia CEO say \"Microsoft\" during earnings call today?",
+    "category": "other",
+    "created_at": "2025-02-26T19:49:01.697398Z",
+    "resolved_at": "2025-02-27T01:09:35Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "96961607605575395751309341816998420816050946304190830051940017819650162111748"
+  },
+  {
+    "market_id": "524462",
+    "question": "Will Trump post less than 100 times on Truth Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:17:38.956079Z",
+    "resolved_at": "2025-02-27T00:30:18Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "20163471444729576196344826874184512681064084288842248064365236355523295993736"
+  },
+  {
+    "market_id": "524952",
+    "question": "Will the highest temperature in NYC be between 54-55\u00b0F on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T16:01:50.365631Z",
+    "resolved_at": "2025-02-26T23:51:06Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "14837942203055891512806592869410267097806458782301997777861844594806407752784"
+  },
+  {
+    "market_id": "524951",
+    "question": "Will the highest temperature in NYC be between 52-53\u00b0F on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T16:01:49.552665Z",
+    "resolved_at": "2025-02-26T23:46:28Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "14481968779290152696363259294000403674827276104253113328703205580583127270245"
+  },
+  {
+    "market_id": "521165",
+    "question": "Will Bitcoin dip to $85,000 by February 28, 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T16:51:41.703854Z",
+    "resolved_at": "2025-02-26T22:20:22Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "36741517184834776978822993844126807124693728431262390909298457205912928756142"
+  },
+  {
+    "market_id": "524950",
+    "question": "Will the highest temperature in NYC be between 50-51\u00b0F on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T16:01:48.803165Z",
+    "resolved_at": "2025-02-26T21:39:04Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "49613910265975827091505191766913887025598621445167233879968388922301246651992"
+  },
+  {
+    "market_id": "524949",
+    "question": "Will the highest temperature in NYC be between 48-49\u00b0F on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T16:01:48.023927Z",
+    "resolved_at": "2025-02-26T20:48:26Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "81317185907322128483340215041734134912113753531401139600652181741853115796271"
+  },
+  {
+    "market_id": "525277",
+    "question": "Will pump.fun recover their X account by noon?",
+    "category": "other",
+    "created_at": "2025-02-26T15:27:59.603695Z",
+    "resolved_at": "2025-02-26T20:36:02Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "112440173291752779969546243070453019878357931132365257855690048052012649807227"
+  },
+  {
+    "market_id": "524948",
+    "question": "Will the highest temperature in NYC be 47\u00b0F or below on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T16:01:47.201594Z",
+    "resolved_at": "2025-02-26T20:33:12Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "20176213034240863371252097814968311075917243879749080331020005183913788850579"
+  },
+  {
+    "market_id": "524936",
+    "question": "Will the highest temperature in London be between 45-46\u00b0F on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:03.619726Z",
+    "resolved_at": "2025-02-26T20:33:06Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "25466776792914225341579112418006577694815090231933605320140852697770966768013"
+  },
+  {
+    "market_id": "524935",
+    "question": "Will the highest temperature in London be between 43-44\u00b0F on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:02.797202Z",
+    "resolved_at": "2025-02-26T13:16:51Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "91856958169133516228742858991965588848298026477204084471081828994331269160124"
+  },
+  {
+    "market_id": "524503",
+    "question": "Will the highest temperature in NYC be between 55-56\u00b0F on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T18:53:46.360808Z",
+    "resolved_at": "2025-02-26T09:05:52Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "3360166684084258875133697913186529672133392006986868110445119278642970592015"
+  },
+  {
+    "market_id": "524505",
+    "question": "Will the highest temperature in NYC be 59\u00b0F or higher on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T18:53:47.847163Z",
+    "resolved_at": "2025-02-26T09:05:46Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "86137101985298940895246662493330371623270218584597366447622573957344236931022"
+  },
+  {
+    "market_id": "524504",
+    "question": "Will the highest temperature in NYC be between 57-58\u00b0F on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T18:53:47.113939Z",
+    "resolved_at": "2025-02-26T09:05:42Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "91151475157189899224242380592886923991061573934679244990305424221608958363258"
+  },
+  {
+    "market_id": "524454",
+    "question": "Will Elon tweet 550-599 times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:40.916567Z",
+    "resolved_at": "2025-02-26T08:40:18Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "24405221116479818019643220183427372533416319981242630388408291370180116719352"
+  },
+  {
+    "market_id": "525201",
+    "question": "Will Luka record a Triple Double tonight?",
+    "category": "other",
+    "created_at": "2025-02-25T19:47:32.450759Z",
+    "resolved_at": "2025-02-26T07:17:01Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "27858216587581516135203044793376696850576005674194336112188256735757951425361"
+  },
+  {
+    "market_id": "525188",
+    "question": "Adin Ross unbanned from Twitch today?",
+    "category": "other",
+    "created_at": "2025-02-25T16:42:11.356701Z",
+    "resolved_at": "2025-02-26T07:12:37Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "37472174750755153306027446649220866699935443103331764639400725968692952825161"
+  },
+  {
+    "market_id": "524518",
+    "question": "Will the highest temperature in London be between 53-54\u00b0F on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T19:02:30.760217Z",
+    "resolved_at": "2025-02-26T05:17:41Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "61298320755517406430247254396388379678478146577234271714823124173764376932710"
+  },
+  {
+    "market_id": "524934",
+    "question": "Will the highest temperature in London be 42\u00b0F or below on February 26?",
+    "category": "other",
+    "created_at": "2025-02-24T15:57:01.971954Z",
+    "resolved_at": "2025-02-26T05:17:39Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "110508127382476860403711080273532851528049107522648515956569960824737250381157"
+  },
+  {
+    "market_id": "524519",
+    "question": "Will the highest temperature in London be 55\u00b0F or higher on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T19:02:31.481491Z",
+    "resolved_at": "2025-02-26T05:17:31Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "49305221302620891459226358149401205885735044792861108008778433039417478818695"
+  },
+  {
+    "market_id": "524517",
+    "question": "Will the highest temperature in London be between 51-52\u00b0F on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T19:02:30.007119Z",
+    "resolved_at": "2025-02-26T05:17:27Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "4010199024078780839959840770485409743158729863329618829343008129265418930534"
+  },
+  {
+    "market_id": "524968",
+    "question": "Will Trump say \"Climate\" during Macron presser today?",
+    "category": "other",
+    "created_at": "2025-02-24T16:17:15.898678Z",
+    "resolved_at": "2025-02-26T05:02:54Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "252788833985778025348904407677353689269078837590486154471480393953282475941"
+  },
+  {
+    "market_id": "524984",
+    "question": "Will Trump issue an executive order on February 25?",
+    "category": "other",
+    "created_at": "2025-02-24T16:40:51.812263Z",
+    "resolved_at": "2025-02-26T02:31:19Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "16323474500199720604929363250705692686846733376513276119945106659796889481640"
+  },
+  {
+    "market_id": "523063",
+    "question": "Will Aston Villa win on 2025-02-25?",
+    "category": "other",
+    "created_at": "2025-02-12T05:01:47.054499Z",
+    "resolved_at": "2025-02-26T02:27:18Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "71320626277016790674432082357630471211606994800853115964048812759782795644948"
+  },
+  {
+    "market_id": "523067",
+    "question": "Will Wolves win on 2025-02-25?",
+    "category": "other",
+    "created_at": "2025-02-12T05:04:25.003961Z",
+    "resolved_at": "2025-02-26T02:22:08Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "103193093673496224661220995127917981839422191568423715784467138083228501901813"
+  },
+  {
+    "market_id": "523068",
+    "question": "Will Wolves vs. Fulham end in a draw?",
+    "category": "other",
+    "created_at": "2025-02-12T05:05:16.149649Z",
+    "resolved_at": "2025-02-26T02:22:02Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "103818911501556206008482241582164685353117397384289917604205488488818740747775"
+  },
+  {
+    "market_id": "523069",
+    "question": "Will Fulham win on 2025-02-25?",
+    "category": "other",
+    "created_at": "2025-02-12T05:05:49.610752Z",
+    "resolved_at": "2025-02-26T02:21:58Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "113112105566199279684647287188485083618634637090625180918154918160489727125208"
+  },
+  {
+    "market_id": "523071",
+    "question": "Will Chelsea vs. Southampton end in a draw?",
+    "category": "other",
+    "created_at": "2025-02-12T05:07:12.825591Z",
+    "resolved_at": "2025-02-26T01:16:43Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "19538294241367168872756580971348190270535649857796937465901954995817763138709"
+  },
+  {
+    "market_id": "523070",
+    "question": "Will Chelsea win on 2025-02-25?",
+    "category": "other",
+    "created_at": "2025-02-12T05:06:42.301341Z",
+    "resolved_at": "2025-02-26T01:16:37Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "105516621747802629363487111127496374984625033867487768168795910631062345821019"
+  },
+  {
+    "market_id": "523072",
+    "question": "Will Southampton win on 2025-02-25?",
+    "category": "other",
+    "created_at": "2025-02-12T05:07:38.324559Z",
+    "resolved_at": "2025-02-26T01:16:35Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "62830411802636143991540743208133243972651279900264453158568095469671753516993"
+  },
+  {
+    "market_id": "524453",
+    "question": "Will Elon tweet 500-549 times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:40.552191Z",
+    "resolved_at": "2025-02-26T00:46:40Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "57254057268196307614973025180354529440768121744989687565940656058383814669511"
+  },
+  {
+    "market_id": "523064",
+    "question": "Will Brighton win on 2025-02-25?",
+    "category": "other",
+    "created_at": "2025-02-12T05:02:47.388019Z",
+    "resolved_at": "2025-02-26T00:36:31Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "48036195467719143296023938330608979498971677100949597931030848636403801979324"
+  },
+  {
+    "market_id": "523065",
+    "question": "Will Brighton vs. Bournemouth end in a draw?",
+    "category": "other",
+    "created_at": "2025-02-12T05:03:11.200047Z",
+    "resolved_at": "2025-02-26T00:36:27Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "61402888084624793123902756852397502412875097681030937517732780715846918067777"
+  },
+  {
+    "market_id": "523066",
+    "question": "Will Bournemouth win on 2025-02-25?",
+    "category": "other",
+    "created_at": "2025-02-12T05:03:37.10965Z",
+    "resolved_at": "2025-02-26T00:36:21Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "100511805014362619628048034439182692006176407609172384892248197074095258148022"
+  },
+  {
+    "market_id": "523062",
+    "question": "Will Crystal Palace vs. Aston Villa end in a draw?",
+    "category": "other",
+    "created_at": "2025-02-12T05:01:23.101305Z",
+    "resolved_at": "2025-02-26T00:36:17Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "50343631012868631685169352417250618606176048201167896018617325406495841373317"
+  },
+  {
+    "market_id": "523061",
+    "question": "Will Crystal Palace win on 2025-02-25?",
+    "category": "other",
+    "created_at": "2025-02-12T05:00:57.851024Z",
+    "resolved_at": "2025-02-26T00:36:13Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "52014254335068992053640273793066221949512488692117848046432027497930519329450"
+  },
+  {
+    "market_id": "524502",
+    "question": "Will the highest temperature in NYC be between 53-54\u00b0F on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T18:53:45.611753Z",
+    "resolved_at": "2025-02-25T21:48:09Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "99260364178266010407652434417868119404606659430996594020738761657146861142963"
+  },
+  {
+    "market_id": "524484",
+    "question": "Will Trump issue an executive order on February 24?",
+    "category": "other",
+    "created_at": "2025-02-21T18:38:44.053077Z",
+    "resolved_at": "2025-02-25T20:59:53Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "113620698440694844187164175526549022976243265435012451170887278206458871341835"
+  },
+  {
+    "market_id": "524501",
+    "question": "Will the highest temperature in NYC be between 51-52\u00b0F on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T18:53:44.84822Z",
+    "resolved_at": "2025-02-25T20:49:31Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "99406653948194122089714410529707967235216995008448728146723499721640255262967"
+  },
+  {
+    "market_id": "524067",
+    "question": "Will CDU/CSU win more seats than SPD and Greens?",
+    "category": "other",
+    "created_at": "2025-02-19T01:20:56.378952Z",
+    "resolved_at": "2025-02-25T20:45:05Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "64381511497323940473066628533208881533918528073525595185105025131613907262399"
+  },
+  {
+    "market_id": "524499",
+    "question": "Will the highest temperature in NYC be 48\u00b0F or below on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T18:53:43.353094Z",
+    "resolved_at": "2025-02-25T19:47:53Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "4668762641952880573799642450832021452728217613622030290931220053451497861060"
+  },
+  {
+    "market_id": "524500",
+    "question": "Will the highest temperature in NYC be between 49-50\u00b0F on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T18:53:44.105526Z",
+    "resolved_at": "2025-02-25T19:47:51Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "77315354008252704573204220720824006458877134658983705851479542261907738278399"
+  },
+  {
+    "market_id": "523818",
+    "question": "Stony Brook vs. Hampton",
+    "category": "other",
+    "created_at": "2025-02-16T07:18:18.246746Z",
+    "resolved_at": "2025-02-25T19:39:57Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "65005706593060065983445096925194840360234291320845344763821892995947476120320"
+  },
+  {
+    "market_id": "524516",
+    "question": "Will the highest temperature in London be between 49-50\u00b0F on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T19:02:29.245168Z",
+    "resolved_at": "2025-02-25T18:38:40Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "4882067847975547548625620610919471411677395899859004180980475032535905113471"
+  },
+  {
+    "market_id": "523808",
+    "question": "UNC Wilmington vs. William & Mary",
+    "category": "other",
+    "created_at": "2025-02-16T07:16:42.168549Z",
+    "resolved_at": "2025-02-25T17:11:14Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "34916013927463718434569123197814886989009579253536342182044151521497990843224"
+  },
+  {
+    "market_id": "524515",
+    "question": "Will the highest temperature in London be between 47-48\u00b0F on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T19:02:28.522004Z",
+    "resolved_at": "2025-02-25T15:32:01Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "66318857956532565183635036240193061286653174192495671887109923181849524440800"
+  },
+  {
+    "market_id": "524483",
+    "question": "Will Trump issue an executive order on February 23?",
+    "category": "other",
+    "created_at": "2025-02-21T18:37:00.880676Z",
+    "resolved_at": "2025-02-25T14:56:42Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "4695285616732903119629911788786835818810906478429294626165578109582584069053"
+  },
+  {
+    "market_id": "524452",
+    "question": "Will Elon tweet 450-499 times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:40.138465Z",
+    "resolved_at": "2025-02-25T14:11:32Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "44324818938506564114151681253438029160623944042987751473661195504268810248239"
+  },
+  {
+    "market_id": "521265",
+    "question": "Will Dogecoin dip to $0.20 by February 28 2025?",
+    "category": "other",
+    "created_at": "2025-01-31T22:16:19.486545Z",
+    "resolved_at": "2025-02-25T13:01:47Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "36820771181114271382810230645256615400401204330748926948852895947658396067223"
+  },
+  {
+    "market_id": "524496",
+    "question": "Will the highest temperature in NYC be between 50-51\u00b0F on February 24?",
+    "category": "other",
+    "created_at": "2025-02-21T18:51:39.414352Z",
+    "resolved_at": "2025-02-25T10:48:57Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "105776955220851441639193848820933475991993789955902746637494949625234442863170"
+  },
+  {
+    "market_id": "524498",
+    "question": "Will the highest temperature in NYC be 52\u00b0F or higher on February 24?",
+    "category": "other",
+    "created_at": "2025-02-21T18:51:40.880467Z",
+    "resolved_at": "2025-02-25T10:48:51Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "70380848629300225861785139041284956310760806798846497217184960261098548859920"
+  },
+  {
+    "market_id": "521164",
+    "question": "Will Bitcoin dip to $90,000 by February 28, 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T16:51:41.322015Z",
+    "resolved_at": "2025-02-25T10:43:03Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "40796770317612137942464744861719571050079006177667734162950751694650600914946"
+  },
+  {
+    "market_id": "524495",
+    "question": "Will the highest temperature in NYC be between 48-49\u00b0F on February 24?",
+    "category": "other",
+    "created_at": "2025-02-21T18:51:38.685859Z",
+    "resolved_at": "2025-02-25T09:06:31Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "23825414560189784699625431654675236762602738875160877483020993699511876588579"
+  },
+  {
+    "market_id": "524514",
+    "question": "Will the highest temperature in London be between 45-46\u00b0F on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T19:02:27.785412Z",
+    "resolved_at": "2025-02-25T06:28:05Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "112011696953314765338346456123081966232029227643501131563166605996647523743946"
+  },
+  {
+    "market_id": "524451",
+    "question": "Will Elon tweet 400-449 times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:39.444699Z",
+    "resolved_at": "2025-02-25T06:13:13Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "96878709708683465000294793148884352708102540866786559344603765753701188485690"
+  },
+  {
+    "market_id": "524513",
+    "question": "Will the highest temperature in London be 44\u00b0F or below on February 25?",
+    "category": "other",
+    "created_at": "2025-02-21T19:02:27.050008Z",
+    "resolved_at": "2025-02-25T05:17:17Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "58805310351996080388294990199238665709992991150794507036681017373180673905997"
+  },
+  {
+    "market_id": "524511",
+    "question": "Will the highest temperature in London be between 56-57\u00b0F on February 24?",
+    "category": "other",
+    "created_at": "2025-02-21T19:02:10.509151Z",
+    "resolved_at": "2025-02-25T05:07:23Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "111099109809512482056782792117003603898411670550557146714282662215989357912001"
+  },
+  {
+    "market_id": "524512",
+    "question": "Will the highest temperature in London be 58\u00b0F or higher on February 24?",
+    "category": "other",
+    "created_at": "2025-02-21T19:02:11.241981Z",
+    "resolved_at": "2025-02-25T05:07:19Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "106921706252988532985009626498114521610636587977388784193471267976470684736940"
+  },
+  {
+    "market_id": "524450",
+    "question": "Will Elon tweet less than 400 times Feb 21-28?",
+    "category": "other",
+    "created_at": "2025-02-21T17:02:38.984473Z",
+    "resolved_at": "2025-02-25T04:09:07Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "27634973664212741483625301187468717125215169551813394548917700901179651190408"
+  },
+  {
+    "market_id": "521227",
+    "question": "Will Solana dip to $140 by February 28 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-31T19:29:58.812751Z",
+    "resolved_at": "2025-02-25T01:04:18Z",
+    "outcome": 1.0,
+    "tags": [],
+    "yes_token": "39343558459499222272618179083006407450955278148781540059937457209617121970042"
+  },
+  {
+    "market_id": "524965",
+    "question": "Will Trump say \"Ukraine\" 20+ times during Macron presser today?",
+    "category": "other",
+    "created_at": "2025-02-24T16:17:13.387994Z",
+    "resolved_at": "2025-02-25T00:34:26Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "101947287029717455893926986071359555425322696448865816385652586188094379075250"
+  },
+  {
+    "market_id": "524967",
+    "question": "Will Trump say \"Bernard\" or \"Arnault\" during Macron presser today?",
+    "category": "other",
+    "created_at": "2025-02-24T16:17:14.973195Z",
+    "resolved_at": "2025-02-25T00:34:20Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "32240535877791114800614305636494501783927431579381380008649701393918104724554"
+  },
+  {
+    "market_id": "524963",
+    "question": "Will Trump say \"France\" 15+ times during Macron presser today?",
+    "category": "other",
+    "created_at": "2025-02-24T16:17:11.833479Z",
+    "resolved_at": "2025-02-25T00:34:18Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "71672120986471885804968002664414649745482851494821653198930117509375104530447"
+  },
+  {
+    "market_id": "524966",
+    "question": "Will Trump say \"Ukraine\" 10+ times during Macron presser today?",
+    "category": "other",
+    "created_at": "2025-02-24T16:17:14.152691Z",
+    "resolved_at": "2025-02-25T00:34:10Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "25678803629876396558912788816315010112654155022827663753356815702770434407366"
+  },
+  {
+    "market_id": "523547",
+    "question": "Will Trump's 538 approval rating be between 48.0% and 48.4% on February 21?",
+    "category": "other",
+    "created_at": "2025-02-14T21:38:29.026979Z",
+    "resolved_at": "2025-02-25T00:27:36Z",
+    "outcome": 0.0,
+    "tags": [],
+    "yes_token": "615564527747018950978328948933786752859598181392927830566033669373735514678"
+  }
+]

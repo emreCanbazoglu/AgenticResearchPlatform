@@ -13,14 +13,23 @@ class GeneticOptimizer(Optimizer):
         self._elite: list[Candidate] = []
         self._counter = 0
 
+    # Pairs where the second param must be strictly greater than the first.
+    _ORDERED_PAIRS = [("fast_window", "slow_window"), ("fast_period", "slow_period")]
+
+    def _enforce_ordering(self, params: dict[str, Any]) -> None:
+        for fast_key, slow_key in self._ORDERED_PAIRS:
+            if fast_key in params and slow_key in params:
+                if params[slow_key] <= params[fast_key]:
+                    params[slow_key] = min(
+                        self.search_space[slow_key][1], params[fast_key] + 1
+                    )
+
     def _random_params(self) -> dict[str, Any]:
         params: dict[str, Any] = {}
         for key in sorted(self.search_space):
             lo, hi = self.search_space[key]
             params[key] = self._rng.randint(lo, hi)
-        # Force valid MA windows.
-        if params.get("slow_window", 0) <= params.get("fast_window", 0):
-            params["slow_window"] = params["fast_window"] + 1
+        self._enforce_ordering(params)
         return params
 
     def _mutate(self, base: dict[str, Any]) -> dict[str, Any]:
@@ -29,8 +38,7 @@ class GeneticOptimizer(Optimizer):
             lo, hi = self.search_space[key]
             step = self._rng.choice([-2, -1, 0, 1, 2])
             mutated[key] = max(lo, min(hi, int(mutated[key]) + step))
-        if mutated.get("slow_window", 0) <= mutated.get("fast_window", 0):
-            mutated["slow_window"] = min(self.search_space["slow_window"][1], mutated["fast_window"] + 1)
+        self._enforce_ordering(mutated)
         return mutated
 
     def suggest(self, *, iteration: int, batch_size: int) -> list[Candidate]:

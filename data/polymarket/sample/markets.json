@@ -1,0 +1,182 @@
+[
+  {
+    "market_id": "mkt001",
+    "question": "Will the Democratic candidate win the 2024 U.S. presidential election?",
+    "category": "elections",
+    "created_at": "2024-06-01T00:00:00Z",
+    "resolved_at": "2024-11-06T05:00:00Z",
+    "outcome": 0.0,
+    "tags": ["us", "president", "2024"]
+  },
+  {
+    "market_id": "mkt002",
+    "question": "Will a Republican win the 2024 U.S. presidential election?",
+    "category": "elections",
+    "created_at": "2024-06-01T00:00:00Z",
+    "resolved_at": "2024-11-06T05:00:00Z",
+    "outcome": 1.0,
+    "tags": ["us", "president", "2024"]
+  },
+  {
+    "market_id": "mkt003",
+    "question": "Will turnout exceed 63% in the 2024 U.S. election?",
+    "category": "elections",
+    "created_at": "2024-08-01T00:00:00Z",
+    "resolved_at": "2024-11-06T06:00:00Z",
+    "outcome": 1.0,
+    "tags": ["turnout", "us", "election"]
+  },
+  {
+    "market_id": "mkt004",
+    "question": "Will Florida vote Republican in 2024?",
+    "category": "elections",
+    "created_at": "2024-07-15T00:00:00Z",
+    "resolved_at": "2024-11-06T05:30:00Z",
+    "outcome": 1.0,
+    "tags": ["state", "florida", "election"]
+  },
+  {
+    "market_id": "mkt005",
+    "question": "Will Arizona vote Democratic in 2024?",
+    "category": "elections",
+    "created_at": "2024-07-15T00:00:00Z",
+    "resolved_at": "2024-11-06T06:15:00Z",
+    "outcome": 0.0,
+    "tags": ["state", "arizona", "election"]
+  },
+  {
+    "market_id": "mkt006",
+    "question": "Will BTC close above $80k on Dec 31, 2025?",
+    "category": "crypto",
+    "created_at": "2025-02-01T00:00:00Z",
+    "resolved_at": "2026-01-01T00:00:00Z",
+    "outcome": 1.0,
+    "tags": ["bitcoin", "price", "2025"]
+  },
+  {
+    "market_id": "mkt007",
+    "question": "Will ETH close above $5k on Dec 31, 2025?",
+    "category": "crypto",
+    "created_at": "2025-02-01T00:00:00Z",
+    "resolved_at": "2026-01-01T00:00:00Z",
+    "outcome": 0.0,
+    "tags": ["ethereum", "price", "2025"]
+  },
+  {
+    "market_id": "mkt008",
+    "question": "Will Solana market cap exceed $100B before 2026?",
+    "category": "crypto",
+    "created_at": "2025-03-01T00:00:00Z",
+    "resolved_at": "2025-12-31T23:00:00Z",
+    "outcome": 1.0,
+    "tags": ["solana", "market-cap", "altcoins"]
+  },
+  {
+    "market_id": "mkt009",
+    "question": "Will a U.S. spot ETF for Dogecoin be approved in 2025?",
+    "category": "crypto",
+    "created_at": "2025-04-01T00:00:00Z",
+    "resolved_at": "2025-12-31T23:00:00Z",
+    "outcome": 0.0,
+    "tags": ["dogecoin", "etf", "sec"]
+  },
+  {
+    "market_id": "mkt010",
+    "question": "Will total stablecoin market cap exceed $250B by end of 2025?",
+    "category": "crypto",
+    "created_at": "2025-01-10T00:00:00Z",
+    "resolved_at": "2025-12-31T23:00:00Z",
+    "outcome": 1.0,
+    "tags": ["stablecoin", "market-cap", "macro"]
+  },
+  {
+    "market_id": "mkt011",
+    "question": "Will the Chiefs win Super Bowl LIX?",
+    "category": "sports",
+    "created_at": "2024-09-01T00:00:00Z",
+    "resolved_at": "2025-02-10T03:00:00Z",
+    "outcome": 0.0,
+    "tags": ["nfl", "super-bowl", "chiefs"]
+  },
+  {
+    "market_id": "mkt012",
+    "question": "Will the Celtics win the 2025 NBA Finals?",
+    "category": "sports",
+    "created_at": "2024-10-01T00:00:00Z",
+    "resolved_at": "2025-06-20T03:00:00Z",
+    "outcome": 1.0,
+    "tags": ["nba", "finals", "celtics"]
+  },
+  {
+    "market_id": "mkt013",
+    "question": "Will Real Madrid win the 2025 Champions League?",
+    "category": "sports",
+    "created_at": "2024-10-01T00:00:00Z",
+    "resolved_at": "2025-06-01T22:00:00Z",
+    "outcome": 0.0,
+    "tags": ["soccer", "ucl", "real-madrid"]
+  },
+  {
+    "market_id": "mkt014",
+    "question": "Will Verstappen win the 2025 F1 title?",
+    "category": "sports",
+    "created_at": "2025-03-01T00:00:00Z",
+    "resolved_at": "2025-11-25T18:00:00Z",
+    "outcome": 1.0,
+    "tags": ["f1", "verstappen", "championship"]
+  },
+  {
+    "market_id": "mkt015",
+    "question": "Will Alcaraz win Wimbledon 2025?",
+    "category": "sports",
+    "created_at": "2025-04-01T00:00:00Z",
+    "resolved_at": "2025-07-13T18:00:00Z",
+    "outcome": 1.0,
+    "tags": ["tennis", "wimbledon", "alcaraz"]
+  },
+  {
+    "market_id": "mkt016",
+    "question": "Will the Fed cut rates by at least 50 bps in 2025?",
+    "category": "economics",
+    "created_at": "2025-01-01T00:00:00Z",
+    "resolved_at": "2025-12-18T19:00:00Z",
+    "outcome": 0.0,
+    "tags": ["fed", "rates", "macro"]
+  },
+  {
+    "market_id": "mkt017",
+    "question": "Will U.S. CPI be below 2.5% in December 2025?",
+    "category": "economics",
+    "created_at": "2025-01-15T00:00:00Z",
+    "resolved_at": "2026-01-15T13:30:00Z",
+    "outcome": 1.0,
+    "tags": ["cpi", "inflation", "us"]
+  },
+  {
+    "market_id": "mkt018",
+    "question": "Will U.S. unemployment exceed 5% in 2025?",
+    "category": "economics",
+    "created_at": "2025-01-15T00:00:00Z",
+    "resolved_at": "2025-12-31T23:00:00Z",
+    "outcome": 0.0,
+    "tags": ["unemployment", "labor", "us"]
+  },
+  {
+    "market_id": "mkt019",
+    "question": "Will U.S. GDP growth exceed 2% in 2025?",
+    "category": "economics",
+    "created_at": "2025-01-20T00:00:00Z",
+    "resolved_at": "2026-01-30T13:30:00Z",
+    "outcome": 1.0,
+    "tags": ["gdp", "growth", "us"]
+  },
+  {
+    "market_id": "mkt020",
+    "question": "Will Brent crude average above $90 in Q4 2025?",
+    "category": "economics",
+    "created_at": "2025-05-01T00:00:00Z",
+    "resolved_at": "2025-12-31T23:00:00Z",
+    "outcome": 0.0,
+    "tags": ["oil", "commodities", "energy"]
+  }
+]

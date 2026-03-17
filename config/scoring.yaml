@@ -1,0 +1,8 @@
+# Scoring weights for composite score.
+# Score = return_weight * total_return
+#       + sharpe_weight * sharpe_ratio
+#       - drawdown_weight * max_drawdown
+# Crypto profile: heavy drawdown penalty.
+return_weight: 0.4
+sharpe_weight: 0.4
+drawdown_weight: 0.2

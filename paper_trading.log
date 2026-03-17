@@ -1,0 +1,12 @@
+Paper Trading Session — BTCUSDT 30m
+Checkpoint : paper_session.json  (cycle 0 — fresh start)
+Budget     : $30,000.00  |  Workers: 3
+Cycle size : 6 candle  |  Lookback: 200 candles
+Slippage   : 5.0 bps per fill  |  Position size: 95% of allocated budget
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Next cycle in 1322s  (at 21:30 UTC)
+Cycle  1  [2026-03-17 21:30 UTC]  │  Pool: $30,000.00 → $31,048.50  (+3.50%)
+          │   ma_crossover  $10,317.13    +3.17%  [real]   fast=5 slow=48
+          │   rsi_v1        $10,486.19    +4.86%  [real]   period=23 ob=76 os=33
+          │   macd_v1       $10,245.18    +2.45%  [real]   fast=15 slow=31 sig=10
+  Next cycle in 1799s  (at 22:00 UTC)
