@@ -130,6 +130,118 @@ class WorkerAgent:
             slippage_paid=float(result.metrics["slippage_paid"]),
         )
 
+    def run_eval_incremental(
+        self,
+        context_prices: list[float],
+        eval_prices: list[float],
+        budget: float,
+        cycle_idx: int,
+    ) -> CycleResult:
+        self._initialize_default_params()
+
+        is_virtual = budget <= 0
+        actual_capital = self.virtual_budget if is_virtual else budget
+        if not eval_prices:
+            return CycleResult(
+                strategy_id=self.strategy_id,
+                cycle_idx=cycle_idx,
+                budget_allocated=budget,
+                is_virtual=is_virtual,
+                initial_equity=actual_capital,
+                final_equity=actual_capital,
+                pnl=0.0,
+                pnl_pct=0.0,
+                score=0.0,
+                params_used=dict(self._current_params),
+                trade_count=0,
+                commission_paid=0.0,
+                slippage_paid=0.0,
+            )
+
+        combined_prices = list(context_prices) + list(eval_prices)
+        if len(combined_prices) < 20:
+            return CycleResult(
+                strategy_id=self.strategy_id,
+                cycle_idx=cycle_idx,
+                budget_allocated=budget,
+                is_virtual=is_virtual,
+                initial_equity=actual_capital,
+                final_equity=actual_capital,
+                pnl=0.0,
+                pnl_pct=0.0,
+                score=0.0,
+                params_used=dict(self._current_params),
+                trade_count=0,
+                commission_paid=0.0,
+                slippage_paid=0.0,
+            )
+
+        adapter = TradingAdapter(
+            initial_capital=actual_capital,
+            commission_rate=self.commission_rate,
+            position_size_fraction=self.position_size_fraction,
+            slippage_rate=self.slippage_rate,
+        )
+        full_result = adapter.run_on_prices(
+            prices=combined_prices,
+            strategy_id=self.strategy_id,
+            parameters=self._current_params,
+            seed=self.seed,
+        )
+        base_metrics = {
+            "final_equity": actual_capital,
+            "trade_count": 0.0,
+            "commission_paid": 0.0,
+            "slippage_paid": 0.0,
+        }
+        if context_prices and len(context_prices) >= 20:
+            base_result = adapter.run_on_prices(
+                prices=context_prices,
+                strategy_id=self.strategy_id,
+                parameters=self._current_params,
+                seed=self.seed,
+            )
+            base_metrics = base_result.metrics
+
+        base_final_equity = float(base_metrics["final_equity"])
+        full_final_equity = float(full_result.metrics["final_equity"])
+        if base_final_equity <= 0:
+            incremental_factor = 1.0
+        else:
+            incremental_factor = full_final_equity / base_final_equity
+        final_equity = actual_capital * incremental_factor
+        pnl = final_equity - actual_capital
+        pnl_pct = pnl / actual_capital if actual_capital != 0 else 0.0
+
+        trade_count = max(
+            0,
+            int(float(full_result.metrics["trade_count"]) - float(base_metrics["trade_count"])),
+        )
+        commission_paid = max(
+            0.0,
+            float(full_result.metrics["commission_paid"]) - float(base_metrics["commission_paid"]),
+        )
+        slippage_paid = max(
+            0.0,
+            float(full_result.metrics["slippage_paid"]) - float(base_metrics["slippage_paid"]),
+        )
+
+        return CycleResult(
+            strategy_id=self.strategy_id,
+            cycle_idx=cycle_idx,
+            budget_allocated=budget,
+            is_virtual=is_virtual,
+            initial_equity=actual_capital,
+            final_equity=final_equity,
+            pnl=pnl,
+            pnl_pct=pnl_pct,
+            score=float(full_result.score),
+            params_used=dict(self._current_params),
+            trade_count=trade_count,
+            commission_paid=commission_paid,
+            slippage_paid=slippage_paid,
+        )
+
     def checkpoint(self) -> dict[str, Any]:
         return {
             "strategy_id": self.strategy_id,

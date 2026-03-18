@@ -15,9 +15,10 @@ from core.multi_agent.worker_agent import WorkerAgent
 from meta.optimizers.factory import make_optimizer
 
 SYMBOL = "BTCUSDT"
-INTERVAL = "30m"
-CYCLE_SIZE = 6  # 3 hours of bars per eval — richer trade signal than 1-candle evals
-LOOKBACK_SIZE = 200
+INTERVAL = "1m"
+DIRECTOR_INTERVAL_MINUTES = 5
+CYCLE_SIZE = DIRECTOR_INTERVAL_MINUTES  # 5x 1m bars per director cycle
+LOOKBACK_SIZE = 300
 N_TUNE_CANDIDATES = 8
 TOTAL_BUDGET = 30_000.0
 CHECKPOINT_PATH = "paper_session.json"
@@ -144,7 +145,7 @@ def print_header(session: PaperSession, config: PaperSessionConfig) -> None:
     print(f"Paper Trading Session — {config.symbol} {config.interval}")
     print(f"Checkpoint : {config.checkpoint_path}  ({checkpoint_text})")
     print(f"Budget     : {_money(config.total_budget)}  |  Workers: {len(session.workers)}")
-    print(f"Cycle size : {config.cycle_size} candle  |  Lookback: {config.lookback_size} candles")
+    print(f"Cycle size : {config.cycle_size} candles ({INTERVAL})  |  Lookback: {config.lookback_size} candles")
     print(
         f"Slippage   : {SLIPPAGE_RATE * 10_000:.1f} bps per fill  |  "
         f"Position size: {POSITION_SIZE_FRACTION:.0%} of allocated budget"
@@ -223,7 +224,7 @@ def main() -> None:
 
     try:
         while True:
-            sleep_until_next_boundary(30)
+            sleep_until_next_boundary(DIRECTOR_INTERVAL_MINUTES)
             summary = session.run_one_cycle()
             try:
                 session.save()

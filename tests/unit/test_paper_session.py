@@ -162,8 +162,8 @@ def test_fetch_candles_parses_binance_response(monkeypatch) -> None:
 
     captured_url = {"value": ""}
 
-    def fake_urlopen(url: str):
-        captured_url["value"] = url
+    def fake_urlopen(request, timeout=None):
+        captured_url["value"] = getattr(request, "full_url", str(request))
         return _FakeHTTPResponse(payload, status=200)
 
     monkeypatch.setattr(paper_session.urllib.request, "urlopen", fake_urlopen)

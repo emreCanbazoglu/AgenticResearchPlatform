@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import os
+import time
 import urllib.error
 import urllib.request
 from dataclasses import asdict, dataclass
@@ -27,17 +28,43 @@ class PaperSessionConfig:
 
 def fetch_candles(symbol: str, interval: str, limit: int) -> list[float]:
     url = f"{_BASE_URL}?symbol={symbol}&interval={interval}&limit={limit}"
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "AgenticResearchPlatform/1.0",
+            "Accept": "application/json",
+        },
+    )
 
-    try:
-        with urllib.request.urlopen(url) as response:
-            status = getattr(response, "status", 200)
-            if status != 200:
-                raise RuntimeError(f"failed to fetch candles for {symbol}: HTTP {status}")
-            payload = response.read()
-    except urllib.error.HTTPError as exc:
-        raise RuntimeError(f"failed to fetch candles for {symbol}: HTTP {exc.code}") from exc
-    except urllib.error.URLError as exc:
-        raise RuntimeError(f"failed to fetch candles for {symbol}: network error ({exc.reason})") from exc
+    max_attempts = 5
+    last_error: Exception | None = None
+    for attempt in range(1, max_attempts + 1):
+        try:
+            with urllib.request.urlopen(request, timeout=20) as response:
+                status = getattr(response, "status", 200)
+                if status != 200:
+                    raise RuntimeError(f"failed to fetch candles for {symbol}: HTTP {status}")
+                payload = response.read()
+            break
+        except urllib.error.HTTPError as exc:
+            last_error = exc
+            # Retry rate-limit and 5xx responses.
+            if exc.code in {429, 500, 502, 503, 504} and attempt < max_attempts:
+                time.sleep(min(2**attempt, 16))
+                continue
+            raise RuntimeError(f"failed to fetch candles for {symbol}: HTTP {exc.code}") from exc
+        except (urllib.error.URLError, TimeoutError, OSError) as exc:
+            last_error = exc
+            if attempt < max_attempts:
+                time.sleep(min(2**attempt, 16))
+                continue
+            if isinstance(exc, urllib.error.URLError):
+                reason = exc.reason
+            else:
+                reason = str(exc)
+            raise RuntimeError(f"failed to fetch candles for {symbol}: network error ({reason})") from exc
+    else:
+        raise RuntimeError(f"failed to fetch candles for {symbol}: network error ({last_error})")
 
     try:
         rows = json.loads(payload)
@@ -78,11 +105,7 @@ class PaperSession:
         )
 
         tune_prices = all_candles[: self.config.lookback_size]
-        # Eval on the full window so strategies can warm up their indicators
-        # (e.g. a slow_window=47 MA needs 47 bars before it can fire).
-        # cycle_size controls how much the window slides forward each cycle,
-        # not how many bars the backtest sees.
-        eval_prices = all_candles
+        eval_prices = all_candles[self.config.lookback_size :]
 
         for worker in self.workers:
             worker.self_tune(tune_prices, self.config.n_tune_candidates)
@@ -90,10 +113,24 @@ class PaperSession:
         allocations = self.director._allocate()
         total_before = self.director.total_budget
 
-        results = [
-            worker.run_eval(eval_prices, allocations[worker.strategy_id], self._cycle_count)
-            for worker in self.workers
-        ]
+        results = []
+        for worker in self.workers:
+            budget = allocations[worker.strategy_id]
+            if hasattr(worker, "run_eval_incremental"):
+                result = worker.run_eval_incremental(
+                    context_prices=tune_prices,
+                    eval_prices=eval_prices,
+                    budget=budget,
+                    cycle_idx=self._cycle_count,
+                )
+            else:
+                # Backward compatibility for lightweight test stubs.
+                result = worker.run_eval(
+                    tune_prices + eval_prices,
+                    budget,
+                    self._cycle_count,
+                )
+            results.append(result)
 
         real_pnl = 0.0
         for result in results:
