@@ -17,6 +17,10 @@ PRICE_HISTORY_URL = "https://clob.polymarket.com/prices-history"
 REQUEST_DELAY_SECONDS = 1.0
 # CLOB price history max window in seconds (API rejects windows > ~3 days)
 PRICE_HISTORY_WINDOW_SECONDS = 60 * 60 * 24 * 3
+# How far before resolution to take the snapshot.
+# 30 days gives meaningful pre-resolution uncertainty; the 3-day window
+# ending 30 days before close is where prices still have real information content.
+PRICE_HISTORY_LOOKBACK_DAYS = 30
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DEFAULT_DATA_DIR = ROOT_DIR / "data" / "polymarket"
@@ -222,9 +226,12 @@ def _extract_price_points(payload: Any) -> list[tuple[str, float]]:
 
 def fetch_price_history(yes_token: str, resolved_at_iso: str) -> list[tuple[str, float]]:
     """
-    Fetch price history using the YES token ID and a time window around resolution.
+    Fetch price history using the YES token ID.
     CLOB API requires startTs/endTs (unix seconds) and rejects windows > ~3 days.
-    We fetch the 3-day window ending at resolution time.
+
+    We take a 3-day snapshot ending PRICE_HISTORY_LOOKBACK_DAYS before resolution.
+    This ensures strategies see prices with real uncertainty, not near-resolved prices
+    where the outcome is already nearly certain (which would make any backtest trivial).
     """
     if not yes_token:
         return []
@@ -233,10 +240,12 @@ def fetch_price_history(yes_token: str, resolved_at_iso: str) -> list[tuple[str,
     try:
         if resolved_at_iso.endswith("Z"):
             resolved_at_iso = resolved_at_iso[:-1] + "+00:00"
-        end_ts = int(datetime.fromisoformat(resolved_at_iso).timestamp())
+        resolved_ts = int(datetime.fromisoformat(resolved_at_iso).timestamp())
     except (ValueError, AttributeError):
         return []
 
+    lookback_seconds = PRICE_HISTORY_LOOKBACK_DAYS * 24 * 60 * 60
+    end_ts = resolved_ts - lookback_seconds
     start_ts = end_ts - PRICE_HISTORY_WINDOW_SECONDS
 
     payload = _get_json(PRICE_HISTORY_URL, {

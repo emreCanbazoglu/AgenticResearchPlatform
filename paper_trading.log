@@ -15,3 +15,78 @@ Cycle  2  [2026-03-17 22:00 UTC]  │  Pool: $31,048.50 → $31,820.83  (+2.49%)
           │   rsi_v1        $10,688.25    +1.06%  [real]   period=24 ob=77 os=34
           │   macd_v1       $10,465.62    +2.84%  [real]   fast=15 slow=30 sig=11
   Next cycle in 1799s  (at 22:30 UTC)
+Cycle  3  [2026-03-17 22:30 UTC]  │  Pool: $31,820.83 → $32,692.51  (+2.74%)
+          │   ma_crossover  $11,105.95    +4.07%  [real]   fast=8 slow=38
+          │   rsi_v1        $10,771.20    +1.61%  [real]   period=23 ob=70 os=38
+          │   macd_v1       $10,815.35    +2.53%  [real]   fast=10 slow=30 sig=14
+  Next cycle in 1799s  (at 23:00 UTC)
+Cycle  4  [2026-03-17 23:00 UTC]  │  Pool: $32,692.51 → $33,825.18  (+3.46%)
+          │   ma_crossover  $11,414.63    +3.57%  [real]   fast=8 slow=47
+          │   rsi_v1        $11,278.36    +4.17%  [real]   period=24 ob=75 os=38
+          │   macd_v1       $11,132.19    +2.66%  [real]   fast=11 slow=29 sig=10
+  Next cycle in 1799s  (at 23:30 UTC)
+Cycle  5  [2026-03-17 23:30 UTC]  │  Pool: $33,825.18 → $34,933.47  (+3.28%)
+          │   ma_crossover  $11,767.76    +3.41%  [real]   fast=8 slow=45
+          │   rsi_v1        $11,685.09    +3.85%  [real]   period=22 ob=74 os=38
+          │   macd_v1       $11,480.61    +2.56%  [real]   fast=11 slow=30 sig=14
+  Next cycle in 1800s  (at 00:00 UTC)
+Cycle  6  [2026-03-18 00:00 UTC]  │  Pool: $34,933.47 → $36,047.76  (+3.19%)
+          │   ma_crossover  $12,095.31    +3.03%  [real]   fast=8 slow=44
+          │   rsi_v1        $12,163.78    +4.43%  [real]   period=22 ob=75 os=39
+          │   macd_v1       $11,788.66    +2.10%  [real]   fast=12 slow=27 sig=15
+  Next cycle in 1799s  (at 00:30 UTC)
+Cycle  7  [2026-03-18 00:30 UTC]  │  Pool: $36,047.76 → $37,062.52  (+2.82%)
+          │   ma_crossover  $12,385.87    +2.41%  [real]   fast=7 slow=46
+          │   rsi_v1        $12,541.05    +3.96%  [real]   period=22 ob=74 os=38
+          │   macd_v1       $12,135.60    +2.07%  [real]   fast=10 slow=27 sig=14
+  Next cycle in 1799s  (at 01:00 UTC)
+Cycle  8  [2026-03-18 01:00 UTC]  │  Pool: $37,062.52 → $38,157.68  (+2.95%)
+          │   ma_crossover  $12,741.37    +2.65%  [real]   fast=9 slow=44
+          │   rsi_v1        $12,944.02    +4.09%  [real]   period=21 ob=73 os=37
+          │   macd_v1       $12,472.28    +2.11%  [real]   fast=11 slow=28 sig=14
+  Next cycle in 1799s  (at 01:30 UTC)
+Cycle  9  [2026-03-18 01:30 UTC]  │  Pool: $38,157.68 → $39,276.89  (+2.93%)
+          │   ma_crossover  $13,071.69    +2.41%  [real]   fast=7 slow=46
+          │   rsi_v1        $13,376.04    +4.27%  [real]   period=21 ob=74 os=38
+          │   macd_v1       $12,829.15    +2.11%  [real]   fast=11 slow=28 sig=14
+  Next cycle in 1800s  (at 02:00 UTC)
+Cycle 10  [2026-03-18 02:00 UTC]  │  Pool: $39,276.89 → $40,394.94  (+2.85%)
+          │   ma_crossover  $13,435.85    +2.41%  [real]   fast=7 slow=46
+          │   rsi_v1        $13,807.38    +4.34%  [real]   period=21 ob=74 os=38
+          │   macd_v1       $13,151.71    +1.77%  [real]   fast=12 slow=28 sig=13
+  Next cycle in 1799s  (at 02:30 UTC)
+Cycle 11  [2026-03-18 02:30 UTC]  │  Pool: $40,394.94 → $41,611.39  (+3.01%)
+          │   ma_crossover  $13,815.71    +2.49%  [real]   fast=9 slow=46
+          │   rsi_v1        $14,260.66    +4.55%  [real]   period=21 ob=73 os=38
+          │   macd_v1       $13,535.02    +1.96%  [real]   fast=10 slow=28 sig=14
+  Next cycle in 1800s  (at 03:00 UTC)
+Cycle 12  [2026-03-18 03:00 UTC]  │  Pool: $41,611.39 → $42,818.16  (+2.90%)
+          │   ma_crossover  $14,205.33    +2.41%  [real]   fast=7 slow=46
+          │   rsi_v1        $14,726.90    +4.61%  [real]   period=21 ob=74 os=38
+          │   macd_v1       $13,885.93    +1.64%  [real]   fast=10 slow=28 sig=15
+  Next cycle in 1799s  (at 03:30 UTC)
+Cycle 13  [2026-03-18 03:30 UTC]  │  Pool: $42,818.16 → $44,134.31  (+3.07%)
+          │   ma_crossover  $14,577.23    +2.21%  [real]   fast=7 slow=46
+          │   rsi_v1        $15,238.90    +4.98%  [real]   period=21 ob=73 os=38
+          │   macd_v1       $14,318.18    +1.98%  [real]   fast=11 slow=28 sig=13
+  Next cycle in 1799s  (at 04:00 UTC)
+Cycle 14  [2026-03-18 04:00 UTC]  │  Pool: $44,134.31 → $45,571.39  (+3.26%)
+          │   ma_crossover  $15,108.40    +2.92%  [real]   fast=9 slow=44
+          │   rsi_v1        $15,725.34    +4.87%  [real]   period=21 ob=75 os=38
+          │   macd_v1       $14,737.65    +1.93%  [real]   fast=10 slow=27 sig=13
+  Next cycle in 1800s  (at 04:30 UTC)
+Cycle 15  [2026-03-18 04:30 UTC]  │  Pool: $45,571.39 → $46,959.79  (+3.05%)
+          │   ma_crossover  $15,500.42    +2.30%  [real]   fast=9 slow=46
+          │   rsi_v1        $16,221.97    +4.61%  [real]   period=21 ob=73 os=38
+          │   macd_v1       $15,237.40    +2.18%  [real]   fast=10 slow=28 sig=13
+  Next cycle in 1799s  (at 05:00 UTC)
+Cycle 16  [2026-03-18 05:00 UTC]  │  Pool: $46,959.79 → $48,414.99  (+3.10%)
+          │   ma_crossover  $16,023.26    +2.72%  [real]   fast=9 slow=44
+          │   rsi_v1        $16,721.48    +4.51%  [real]   period=21 ob=75 os=38
+          │   macd_v1       $15,670.26    +2.02%  [real]   fast=10 slow=27 sig=13
+  Next cycle in 1799s  (at 05:30 UTC)
+Cycle 17  [2026-03-18 05:30 UTC]  │  Pool: $48,414.99 → $49,794.32  (+2.85%)
+          │   ma_crossover  $16,420.04    +2.14%  [real]   fast=7 slow=38
+          │   rsi_v1        $17,232.79    +4.36%  [real]   period=21 ob=74 os=38
+          │   macd_v1       $16,141.49    +1.99%  [real]   fast=10 slow=31 sig=13
+  Next cycle in 1799s  (at 06:00 UTC)
